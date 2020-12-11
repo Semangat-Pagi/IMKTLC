@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes
-https://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=qzSkLzM2ozH=&
-http://195.181.172.83:2200/EX/S_SPORT_2_FHD-tr/index.m3u8?token=
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes2
-http://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
