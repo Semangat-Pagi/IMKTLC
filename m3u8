@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes
+http://bonetv.site:55555/bone/streaming/745
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
