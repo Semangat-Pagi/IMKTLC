@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji kates
-https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
+https://cdn14jtedge.useetv.com:443/joss/15/transtv/chunklist_w1607833253_b684100_sleng.m3u8?enc=Psl_rrgi_Xw0riLdhVewBw&exp=1609102807
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
