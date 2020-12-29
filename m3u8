@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji katess
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji katesss
+https://newlivetv.my.id/hbo/sig.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://mkctv.net:443/siap/mnctv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
