@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji kates
-https://control.kochava.com/v1/cpi/click?campaign_id=kotouch-vpn-g30on4aff87aa11a3fbdbb&network_id=300&cnl=startapp&ko_exchange=true&site_id=210933590&enc_data=f5fc550b2f742bf31e20e6c244d4e4593b255ddbc5699fc3d6ce300636b1e738&device_id_type=adid&device_id=ae123cf4-f2d2-455e-aca3-bf5aef125a90&creative_id=Rich_Text-2020-12-09-40&click_id=LjEgrSN4SOCtr4rJgruAQQ
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji katess
+https://mkctv.net:443/siap/mnctv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
