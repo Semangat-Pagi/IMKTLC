@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji kates 
+https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyNSwidGltZSI6IDE2MDk1NzAyMDh9
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
