@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",tes biji katess
+https://etslive-2-vidio-com.akamaized.net/exp=1609579097~acl=/hls-p/ingest_205_*/*~hmac=47a511f326860dfb8067c7fdff3a2be9eb5114a85394b7a624eeff23aae64afb/hls-p/ingest_205_480p/index.m3u8?token=87b1e5d44e186f9d85592f275e17e587e3848ea8
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyNSwidGltZSI6IDE2MDk1NzAyMDh9&token=87b1e5d44e186f9d85592f275e17e587e3848ea8
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyNSwidGltZSI6IDE2MDk1NzAyMDh9
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
