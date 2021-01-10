@@ -16,21 +16,13 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 https://www.dropbox.com/s/46m3hj4vpj93fx4/MNCTV.m3u8?dl=1
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV SD
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RCTI5.m3u8
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI SD
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV +
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/GLOBAL.m3u8
-https://www.dropbox.com/s/js0g5u9imd75hza/GTVMD.m3u8?dl=1
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV SD
 https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
 http://nonton.wap.sh/id/012.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV"
-https://mkctv.net/josmkc/net.m3u8
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
