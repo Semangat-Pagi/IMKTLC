@@ -350,7 +350,9 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Berita 
 http://210.210.155.35/qwr9ew/s/s23/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cgtn doc
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cgtn doc 1
+http://210.210.155.35/session/06d8edc2-a1d3-11ea-9f90-98e78cf5c672/qwr9ew/s/s20/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cgtn doc 2
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cctv 4
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
@@ -387,17 +389,21 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
-http://203.154.177.124:8899/live/ch5/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
 http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FastBox
+http://203.154.177.124:8899/live/ch1/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", mtv
 http://203.154.177.124:8899/live/ch2/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", mtv now
 http://203.154.177.124:8899/live/ch4/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", sport paramount channel
 http://203.154.177.124:8899/live/ch3/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", action hollywood mov
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", abc Australia 
+http://203.154.177.124:8899/live/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", pet club tv
 http://203.154.177.124:8899/live/ch9/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", trace sport stars
