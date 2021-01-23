@@ -221,6 +221,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.
 
 
 ===============================================================LocalDaerah=======================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",DAYAK TV
+http://122.248.43.138:1935/ch26/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",PAL TV PALEMBANG
 http://122.248.43.138:1935/ch7/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BTV/BATAMTV
