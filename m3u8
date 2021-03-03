@@ -10,15 +10,14 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 http://45.126.83.51/qwr9ew/s/s101/01.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV +
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-https://www.dropbox.com/s/46m3hj4vpj93fx4/MNCTV.m3u8?dl=1
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV SD
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV 
+https://moegi.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI SD
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI
+https://moegi.akamaized.net:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV SD
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV
+https://moegi.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
 http://nonton.wap.sh/id/012.m3u8
@@ -34,6 +33,8 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv
+https://birutv.com:443/join_birutv/telegram@birutv/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV"
@@ -57,7 +58,7 @@ http://nonton.wap.sh/id/014.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Kompas TV|
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://moegi.akamaized.net:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
