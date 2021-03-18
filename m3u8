@@ -27,6 +27,8 @@ http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tk
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV|
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NET.
+http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV"
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR"
@@ -34,7 +36,13 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv
-https://birutv.com:443/join_birutv/telegram@birutv/oxygen.m3u8?channel=antv
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Lifestyle
+http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Learning Knowlegde
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Showbiz
+http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV"
@@ -101,7 +109,28 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(81b456ab-b3
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",DIGIONE MAX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Ruang Trampil
+https://cdn12jtedge.useetv.com/joss/15/useeinfo/chunklist_w722437349_b1344100_sleng_kamiselaluada.m3u8?enc=rdBhHfgnHnce0rOTorb1ow&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050801
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Usee Photo
+https://cdn12jtedge.useetv.com/joss/15/useephoto/chunklist_w1879389954_b1344100_sleng_kamiselaluada.m3u8?enc=IELE22Y2cZn5yhkIJEFXtg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050801
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",UseePrime
+https://cdn12jtedge.useetv.com/joss/15/useeprime/chunklist_w2042680780_b894100_sleng_kamiselaluada.m3u8?enc=7luVzXMHg0l2FirmkzU2gA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050801
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Antara
+https://cdn12jtedge.useetv.com/joss/130/antara/chunklist_w1503443190_b1004100_sleng_kamiselaluada.m3u8?enc=pPaUjYfqfufv62ig7kSzRw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050804
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Bali TV
+https://cdn12jtedge.useetv.com/joss/14/balitv/chunklist_w1428226276_b684100_sleng_kamiselaluada.m3u8?enc=acpcjEKRxyCef1ZFi0nfug&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050805
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Insert
+https://cdn12jtedge.useetv.com/joss/14/insert/chunklist_w1577942291_b684100_sleng_kamiselaluada.m3u8?enc=uS3dngXuX4zN_pyu0YcKew&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616052731
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",NusantaraTV
+https://cdn12jtedge.useetv.com/joss/194/nusantaratv/chunklist_w1719780743_b894100_sleng_kamiselaluada.m3u8?enc=gpMaAMCAWCTJqeGPo43_XQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050807
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Live Streaming 1
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Live Streaming 2
+http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Elshinta TV
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Dens Play
+http://210.210.155.35:80/session/10f5c51e-2edc-11eb-aa6b-b82a72d63267/x6bnqe/s/s101/live.m3u8
 
 
 ========================================================MAXSTREAM================================================
