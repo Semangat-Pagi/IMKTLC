@@ -109,24 +109,6 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(81b456ab-b3
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",DIGIONE MAX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Ruang Trampil
-https://cdn12jtedge.useetv.com/joss/15/useeinfo/chunklist_w722437349_b1344100_sleng_kamiselaluada.m3u8?enc=rdBhHfgnHnce0rOTorb1ow&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050801
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Usee Photo
-https://cdn12jtedge.useetv.com/joss/15/useephoto/chunklist_w1879389954_b1344100_sleng_kamiselaluada.m3u8?enc=IELE22Y2cZn5yhkIJEFXtg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050801
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",UseePrime
-https://cdn12jtedge.useetv.com/joss/15/useeprime/chunklist_w2042680780_b894100_sleng_kamiselaluada.m3u8?enc=7luVzXMHg0l2FirmkzU2gA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050801
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Antara
-https://cdn12jtedge.useetv.com/joss/130/antara/chunklist_w1503443190_b1004100_sleng_kamiselaluada.m3u8?enc=pPaUjYfqfufv62ig7kSzRw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050804
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Bali TV
-https://cdn12jtedge.useetv.com/joss/14/balitv/chunklist_w1428226276_b684100_sleng_kamiselaluada.m3u8?enc=acpcjEKRxyCef1ZFi0nfug&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050805
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Insert
-https://cdn12jtedge.useetv.com/joss/14/insert/chunklist_w1577942291_b684100_sleng_kamiselaluada.m3u8?enc=uS3dngXuX4zN_pyu0YcKew&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616052731
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",NusantaraTV
-https://cdn12jtedge.useetv.com/joss/194/nusantaratv/chunklist_w1719780743_b894100_sleng_kamiselaluada.m3u8?enc=gpMaAMCAWCTJqeGPo43_XQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1616050807
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Live Streaming 1
-http://rr3.dens.tv/s/s100/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Live Streaming 2
-http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",Elshinta TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",Dens Play
