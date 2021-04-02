@@ -553,16 +553,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FOX SPORTS VN 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", Fox
-http://136.243.177.164/FOX/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", EUROSPORT1
-http://136.243.177.164/EUROSPORT/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", EUROSPORT2
-http://136.243.177.164/EUROSPORT2/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animal planet
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax
-https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
@@ -573,7 +563,7 @@ http://203.154.177.124:8899/live/ch1/playlist.m3u8
 http://203.154.177.124:8899/live/ch2/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", mtv now
 http://203.154.177.124:8899/live/ch4/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", sport paramount channel
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", Dizi
 http://203.154.177.124:8899/live/ch3/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
@@ -613,50 +603,8 @@ http://51.52.156.22:8888/http/008
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",? 
 http://51.52.156.22:8888/http/011
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",?? 
-http://51.52.156.22:8888/http/012
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",?? 
-http://51.52.156.22:8888/http/013
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",TRAVEL CHANNEL
-http://5.135.92.133:52841/out/u/395_2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",TRING WORLD
-http://5.135.92.133:52841/out/u/408_2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",TRING HISTORY
-http://5.135.92.133:52841/out/u/456_2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tring Planet
-http://5.135.92.133:52841/out/u/458_2.m3u8
-http://5.135.92.133:52841/out/u/370_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", tiptv
-http://5.135.92.133:52841/out/u/360_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", fox news
-http://5.135.92.133:52841/out/u/230_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", kanal 10
-http://5.135.92.133:52841/out/u/190_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", ktv
-http://5.135.92.133:52841/out/u/40_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", super hd
-http://5.135.92.133:52841/out/u/470_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", living hd
-http://5.135.92.133:52841/out/u/480_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", 21 rtv
-http://5.135.92.133:52841/out/u/490_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", fine living
-http://5.135.92.133:52841/out/u/500_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", rai 1
-http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", rai 2
-http://5.135.92.133:52841/out/u/451_1.m3u8
-http://5.135.92.133:52841/out/u/452_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Nat Geographic
-http://5.135.92.133:52841/out/u/83_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", world
-http://5.135.92.133:52841/out/u/410_1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", MANOTO
 https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", eurosport1 
-http://5.135.92.133:52841/out/u/510_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", kanal d drama 
-http://5.135.92.133:52841/out/u/550_1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", biznet adenture 4k
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", astro ceria malay
