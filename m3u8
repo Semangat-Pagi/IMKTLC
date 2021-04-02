@@ -527,6 +527,24 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Elshinta
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Berita satu 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tvri
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Gem
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Bloomberg
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",PFM TV Musik
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w414233074.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Sport stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",canale 51
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FOX SPORTS VN 1
