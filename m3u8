@@ -31,6 +31,8 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV"
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV*
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR"
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
