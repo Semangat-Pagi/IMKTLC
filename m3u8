@@ -527,7 +527,7 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Elshinta
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Berita satu 
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Berita satu 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tvri
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/02.m3u8
