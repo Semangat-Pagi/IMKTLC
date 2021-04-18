@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
