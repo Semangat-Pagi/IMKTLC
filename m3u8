@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
+https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
-http://45.126.83.51/qwr9ew/s/s252/01.m3u8
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7
 https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
