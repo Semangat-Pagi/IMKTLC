@@ -1,11 +1,14 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/TranstVid.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV*
 https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7 VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Trans7Vid.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7*
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7|
@@ -33,29 +36,39 @@ http://nonton.wap.sh/id/012.m3u8
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV|
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/NetTvVid.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV*
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NET.
+#EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NETTV**
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV"
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/SctvVid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV*
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV**
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR"
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/IndosiarVid.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR*
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",SMITHSONIAN
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/SmithsonianVid.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Lifestyle
 http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Showbiz
 http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RtvVid.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV*
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV"
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV**
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV|
 http://nonton.wap.sh/id/013.m3u8
