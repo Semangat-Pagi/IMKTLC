@@ -16,19 +16,16 @@ https://konohamaru.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 https://moegi.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV*
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV**
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI
 https://konohamaru.akamaized.net:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://moegi.akamaized.net:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI*
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV
 https://konohamaru.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://moegi.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV*
 https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV**
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV*
 https://livestreaming-swiftserve-etslive.vidio.com:443/live/778/master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
 http://nonton.wap.sh/id/012.m3u8
@@ -81,7 +78,6 @@ http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV
 https://konohamaru.akamaized.net:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://moegi.akamaized.net:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV*
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
