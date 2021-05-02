@@ -149,14 +149,6 @@ http://nonton.wap.sh/id/002.m3u8
 http://nonton.wap.sh/id/003.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",TRANS7(wap)
 http://nonton.wap.sh/id/004.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",MNC TV(wap)
-http://nonton.wap.sh/id/005.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",RCTI(wap)
-http://nonton.wap.sh/id/006.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",GTV(wap)
-http://nonton.wap.sh/id/007.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",INEWS(wap)
-http://nonton.wap.sh/id/008.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",SCTV(wap)
 http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",BERITA1(wap)
@@ -213,7 +205,7 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Cinema",Gem Classic
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Classic
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
