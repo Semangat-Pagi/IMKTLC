@@ -44,20 +44,14 @@ http://nonton.wap.sh/id/012.m3u8
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/NetTvVid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV*
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NETTV**
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/SctvVid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV*
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV**
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/IndosiarVid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR*
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
