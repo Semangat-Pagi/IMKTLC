@@ -1,20 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/TranstVid.m3u8
+
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV*
 https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7 VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Trans7Vid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7*
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7|
 http://45.126.83.51/qwr9ew/s/s101/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV VID
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV 
+https://livetv01.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV +
 https://konohamaru.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
@@ -22,7 +20,8 @@ https://moegi.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_15372
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV*
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI VID
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI 
+https://livetv01.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI +
 https://konohamaru.akamaized.net:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
@@ -32,7 +31,8 @@ https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6
 https://konohamaru.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://moegi.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV VID
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV
+https://livetv01.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com:443/live/778/master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
 http://nonton.wap.sh/id/012.m3u8
@@ -68,8 +68,6 @@ http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Showbiz
 http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RtvVid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV*
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV**
@@ -92,7 +90,8 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(dc9040ad-a4
 http://nonton.wap.sh/id/014.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Kompas TV|
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV VID
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV 
+https://livetv01.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV +
 https://konohamaru.akamaized.net:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
