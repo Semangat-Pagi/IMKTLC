@@ -1,10 +1,13 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV*
 https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7 VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7*
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
@@ -20,6 +23,8 @@ https://moegi.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_15372
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV*
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI 
 https://livetv01.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
@@ -48,6 +53,8 @@ https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NETTV**
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV*
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV**
@@ -58,7 +65,8 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indonesia1",SMITHSONIAN
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",SMITHSONIAN VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/SmithsonianVid.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Lifestyle
 http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
@@ -74,9 +82,13 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 http://nonton.wap.sh/id/013.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",TVRI VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Metro TV
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV
 https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TvOne 
 http://nonton.wap.sh/id/010.m3u8
