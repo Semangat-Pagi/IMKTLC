@@ -135,6 +135,8 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 http://nonton.wap.sh/id/017.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",AUSTRALIA PLUS
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",TV Ku
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://103.30.1.14:8080/hls/live.m3u8
@@ -234,6 +236,31 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
 
 ========================================================VIDIO===================================================================
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Sctv
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Transtv
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Trans7 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Metrotv 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Rcti
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Tvri
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Alquran 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6852_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Citra muslim 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Australia plus 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Smithsonian Channel 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Crime & Investigation
+http://203.154.243.31:15001
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",TVRI
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Ajwa tv
