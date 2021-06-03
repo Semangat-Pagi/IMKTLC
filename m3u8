@@ -241,6 +241,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
 ========================================================VIDIO===================================================================
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Sctv1
+http://103.88.170.102:8000/play/sctv/index.m3u8
 https://livestreaming-google-etslive.vidio.com/live/204/master.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Sctv2
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
