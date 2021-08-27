@@ -1,3 +1,5 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox hd
 https://liveanevia.mncnow.id:443/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -8,6 +10,8 @@ https://liveanevia.mncnow.id:443/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox crime 
 https://liveanevia.mncnow.id:443/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox Movies 
 https://liveanevia.mncnow.id:443/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox action movies 
