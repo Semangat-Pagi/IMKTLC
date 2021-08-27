@@ -92,6 +92,208 @@ https://liveanevia.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://liveanevia.mncnow.id:443/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MY CINEMA
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",TVN
+http://210.210.155.35:80/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",TVN MOVIES
+http://210.210.155.35:80/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",BLUE ANT EXTREME
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CELESTIAL MOVIES 
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Hits [ID]
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",SONY
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",SONY GEM
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K+
+http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K DRAMA
+http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
+http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMA WORLD
+http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HITS
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+http://210.210.155.66/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",DRAKOR
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KUNGFU CLASSIC ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K+
+http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",DRAKOR 1
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",DRAKOR 2
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama hd
+http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama sd
+http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",IAM Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAMILY ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGNATURE ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO 640x360 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
+http://nonton.site:8888/ko Amat/123456/4828
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED 640x360
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
+http://nonton.site:8888/ko Amat/123456/4829
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX 640x360
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
+http://nonton.site:8888/ko Amat/123456/4830
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAMILY 640x360
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
+http://nonton.site:8888/ko Amat/123456/4831
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS 640x360
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGN 640x360
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Flix
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Prive HD
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",BLACK CINEMA
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MOVIES X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MOVIE KINGDOM 
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO2
+http://136.243.177.164/HBO2/playlist.m3u8
+https://timesnow.airtel.tv:443/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX 
+http://nemu@136.243.177.164/CINEMAX/playlist.m3u8
+https://timesnow.airtel.tv:443/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",WIXLAR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MOVIES NOW
+https://timesnow.airtel.tv:443/live/MN_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Cinema World
+http://45.126.83.51/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",AXN
+http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FilmPremium1",FOX MOVIES World
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX LIFE (VN)
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX FAMILY Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Bbc Four
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Itv 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Itv 3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Itv 4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film 3
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film 4
+http://51.52.156.22:8888/http/011
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TFI
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1328.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",startv
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Rerun
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film ARMENIA TV 
+http://92.43.140.200/s42/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film odega
+http://92.43.140.200/s47/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film A HBO
+http://92.43.140.200/s64/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film T24
+http://92.43.140.200/s68/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FILM ?? 
+http://92.43.140.200/s7/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Hiburan 
+http://92.43.140.200/s38/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX MALAY
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX THAI
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",WARNER TV
+http://203.154.243.89:1205
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", WAU HD
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT ENTERTAINMENT
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT EXTREME
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", UNKNOWN
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",UNKNOWN 
+http://184.173.181.2:1935/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",UNKNOWN 
+http://184.173.181.2:1935/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",UNKNOWN 
+http://184.173.181.2:1935/8072/8072/playlist.m3u8
+
+
 =============+==++++++++++++++++++++++++++++++Indonesia============+=====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -177,6 +379,690 @@ https://liveanevia.mncnow.id:443/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Bandung tv
 https://liveanevia.mncnow.id:443/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA HD", RCTI (vision+)
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA HD", MNC TV (vision+)
+http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA HD", ANTV HD (vision+)
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA HD", SCTV HD (vision+)
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA HD", INDOSIAR HD (vision+)
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA HD", GTV (vision+)
+http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="INDONESIA HD", TV ONE (vision+)
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA HD", INEWS (vision+)
+http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA HD", METRO TV (vision+)
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="INDONESIA HD", CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png" group-title="INDONESIA HD", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="INDONESIA HD", TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA HD", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA HD", BERITA SATU
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/68_144.png" group-title="INDONESIA HD", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="INDONESIA HD", Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV*
+https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
+http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7*
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7|
+http://45.126.83.51/qwr9ew/s/s101/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV 
+https://livetv01.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV +
+https://konohamaru.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://moegi.akamaized.net:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV*
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI 
+https://livetv01.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI +
+https://konohamaru.akamaized.net:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+https://moegi.akamaized.net:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI*
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GTV
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV +
+https://konohamaru.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://moegi.akamaized.net:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV
+https://livetv01.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com:443/live/778/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
+http://nonton.wap.sh/id/012.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV"
+http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV*
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NETTV**
+http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV*
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV**
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV***
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR*
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",SMITHSONIAN VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/SmithsonianVid.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Lifestyle
+http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Learning Knowlegde
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",DENS Showbiz
+http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV*
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV**
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RTV|
+http://nonton.wap.sh/id/013.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TvOne 
+http://nonton.wap.sh/id/010.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TvOne"
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Kompas TV
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Kompas TV"
+http://nonton.wap.sh/id/014.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Kompas TV|
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",INEWS
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV 
+https://livetv01.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV +
+https://konohamaru.akamaized.net:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://moegi.akamaized.net:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",BERITA SATU"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",BERITA SATU|||
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="Indonesia1", CNN Indonesia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="Indonesia1", CNN Indonesia HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="Indonesia1", CNN Indonesia Backup
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", CNBC Indonesia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", CNBC Indonesia"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", CNBC INDONESIA|||
+http://nonton.wap.sh/id/017.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",AUSTRALIA PLUS
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",TV Ku
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", RODJA TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",LIFE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",CHANNEL 4U
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",DIGIONE MAX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Elshinta TV
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia1",Dens Play
+http://210.210.155.35:80/session/10f5c51e-2edc-11eb-aa6b-b82a72d63267/x6bnqe/s/s101/live.m3u8
+
+
+
+=====================================INDONESIA===========================================
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",ANTV(wap)
+http://nonton.wap.sh/id/001.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",INDOSIAR(wap)
+http://nonton.wap.sh/id/002.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",TRANS TV(wap)
+http://nonton.wap.sh/id/003.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",TRANS7(wap)
+http://nonton.wap.sh/id/004.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",SCTV(wap)
+http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",BERITA1(wap)
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",CNN(wap)
+http://nonton.wap.sh/id/016.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",CNBC(wap)
+http://nonton.wap.sh/id/017.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",TVRI(wap)
+http://nonton.wap.sh/id/018.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Jtv
+http://122.248.43.138:1935/ch2/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Etv
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Simpang5Tv
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Btv
+http://122.248.43.138:1935/ch5/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",JawaPostv
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",PALtv
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Rctv
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Btv
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Radar tv
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",RBtv
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",JekTvJambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",PONtv
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",PadangTv
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Stv
+http://122.248.43.138:1935/ch19/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Sultra tv
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",JambiTv
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",SnTv
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Dayak tv
+http://122.248.43.138:1935/ch26/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Fajar tv
+http://122.248.43.138:1935/ch27/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Citra tv
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Classic
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",Gem Series
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+
+
+
+========================================================VIDIO===================================================================
+
+
+
+
+========================================================MAXSTREAM================================================
+
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",MYTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Hi Indo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+#EXTINF:0 tvg-id="rtvint" group-title="MAXSTREAM",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:0 tvg-id="Metro.pl" group-title="MAXSTREAM",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+
+
+
+========================================================MALAYSIA================================================================================
+
+#EXTINF:0 tvg-id="tv1-lt" group-title="MALAYSIA",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:0 tvg-id="TV2.dk" group-title="MALAYSIA",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Naura
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="MALAYSIA",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="MALAYSIA",ASTRO PRIMA
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="MALAYSIA",RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+
+
+========================================================KhususTVRI========================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI
+http://nonton.wap.sh/id/018.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Riau
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://edge.siar.us/tvririau/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Kanal 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Sports
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Jakarta
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI DKI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Jawa Barat
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Jawa Tengah
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Jawa Timur
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Yogyakrta
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Bangka Belitung
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Bengkulu
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Jambi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Lampung
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Aceh
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Sumatera Barat
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Sumatera Selatan
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Sumatera Utara
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Riau
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://edge.siar.us/tvririau/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Gorontalo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Sulawesi Barat
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Kalimantan Barat
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Kalimantan Seletan
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Kalimantan Tengah
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Kalimantan Timur
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Bali
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Nusa Barat
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Nusa Timur
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KhususTVRI",TVRI Maluku
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+
+
+
+
+===============================================================LocalDaerah=======================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",DAYAK TV
+http://122.248.43.138:1935/ch26/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",PAL TV PALEMBANG
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BTV/BATAMTV
+http://122.248.43.138:1935/ch5/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",JAWAPOSTV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Rctv
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Btv 
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Pontv
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Padang tv
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Radar tv
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Sultra tv
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Jtv
+http://122.248.43.138:1935/ch21/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Jambi tv
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Citra tv
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",JEK TV JAMBI
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",JAMBI TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",TANJUNG PINANG TV
+http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BETV Bengkulu
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",RBTV Bengkulu
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",RADAR LAMPUNG
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",RTV RIAU
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", Cahaya Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", TV BANTEN 
+http://103.23.201.170:1935/live/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",TV Banten Backup
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BANTEN RAYA TV
+http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", RADAR TV TASIKMALAYA 
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",SMTV SUMEDANG
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",AHSAN TV CIKARANG
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",RADAR TV TASIKMALAYA
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", Jak TV"
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Indonesia/422b33c14e54444.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",KAWANUA TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", TATV Solo
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", Arek TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Arek TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", Prima TV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BTV BALIK PAPAN
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",BALIK PAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",PRIMA TV BANJARMASIN
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", Radar TV
+http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah", TVKU 
+http://103.30.1.14:8080/hls/live.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",Radar TV
+http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="LocalDaerah",FAJAR TV MAKASSAR
+http://122.248.43.138:1935/ch27/myStream/chunklist_w998392151.m3u8
+
+
+=========================================================CAMPUR================================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Celestial Movies 
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Celestial Movies 
+http://210.210.155.35/session/ed545510-08b8-11eb-a4b8-ab19b04a5f09/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Thrill 
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Thrill 
+http://210.210.155.35/session/e918f00e-08b9-11eb-9f7d-9956a409ef1d/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Zee bioskop 
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Rtp
+http://210.210.155.35/qwr9ew/s/s38/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tbn asia
+http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Jepang 
+http://210.210.155.35/qwr9ew/s/s29/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Mekah tv
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tawaf tv
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",DW
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tv5 monde
+http://210.210.155.35/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Berita 
+http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cgtn doc 1
+http://210.210.155.35/session/06d8edc2-a1d3-11ea-9f90-98e78cf5c672/qwr9ew/s/s20/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cgtn doc 2
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Cctv 4
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Aljazeera
+http://210.210.155.35/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Rodjatv 
+http://210.210.155.35/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Daaitv
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Rtv
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tvri
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Elshinta
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Berita satu 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Tvri
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Gem
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Bloomberg
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",PFM TV Musik
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w414233074.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Sport stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",canale 51
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FOX SPORTS VN 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FOX SPORTS VN 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FOX SPORTS VN 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",FastBox
+http://203.154.177.124:8899/live/ch1/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", mtv
+http://203.154.177.124:8899/live/ch2/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", mtv now
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", Dizi
+http://203.154.177.124:8899/live/ch3/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", animax 
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", action hollywood mov
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", abc Australia 
+http://203.154.177.124:8899/live/ch8/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", pet club tv
+http://203.154.177.124:8899/live/ch9/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", trace sport stars
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", warner
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", film x
+http://203.154.177.124:8899/live/ch18/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", miao mi
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", Thrill 
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", fight sports
+http://203.154.177.124:8899/live/ch22/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", crime investigation
+http://203.154.177.124:8899/live/ch23/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", cbebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", bbc scotland
+http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", bbc news
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", film itv2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", film?? 
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", film? 
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", sony movies 
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",? 
+http://51.52.156.22:8888/http/011
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", MANOTO
+https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", biznet adenture 4k
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", astro ceria malay
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 
 =====++++++++++++++++++++++++++++++++++++++++Knowledge=++++++++++==+++=+
@@ -515,3 +1401,913 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",TRUE NBA
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+======================================WorldSports2====================================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" group-title="WorldSports2", POL | CANAL + SPORTS
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="WorldSports2", IT | SKY SPORT 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.engage.it/2021/1/bike-bfc_326346.jpg" group-title="WorldSports2", IT | BIKE SMART MOBILITY
+https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5a6f534f017db2d628751be1/1601131230797-9W7CJPDNOK6MR1YCJ13J/EDGEsport+Dark.png?format=1000w&content-type=image%2Fpng" group-title="WorldSports2", UK | EDGE SPORT
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 1 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 2 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 3 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 4 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="WorldSports2", GRE | EPT SPORTS 5 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="WorldSports2", ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/wWzqXT-iNUZoFrWRFpbYl75Na3Zy6GjuOuDg83q8bJ1SzGtf6_gmVrVjHG5Qu1hgg7hbIubf5qJFH7-oZ--OzRJQUnzk" group-title="WorldSports2", BIELOR | 5 SPORT 
+https://185-198-56-58.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="WorldSports2", HOL | ZIGGO VOETBAL
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="WorldSports2", HOL | ZIGGO SELECT
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="WorldSports2", HOL | ZIGGO RACING
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="WorldSports2", PT | CANAL 11 
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png", POL | ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png", POL | ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UC4NSl5xpEw7GFClwKO0XEo5zUJUxRu_WQ&usqp=CAU" group-title="WorldSports2", RUS | ASTRAKHAN RU
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejV-xC6Kp6NE9CJ1GCHKOiDI9VanT711KUQ&usqp=CAU" group-title="WorldSports2", RUS | MATCH! FOOTBALL 1 HD
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5M8tqZZXTRxUBzZhIjdbIi30uHC-iP72Yw&usqp=CAU" group-title="WorldSports2", RUS | MATCH! FOOTBALL 2 HD
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ-9x19w1DM8IqA2xJHVuA5ngE2yd-fry4A&usqp=CAU" group-title="WorldSports2", RUS | MATCH! FOOTBALL 3 HD
+https://95-213-172-220.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWgQ6hEfRrMgjyNvLJFv-dvDL3D15ll2Ri_FK8gvTAU1KYvU&s" group-title="WorldSports2", RUS | MATCH! PREMIER
+http://46.174.189.51/matchpremer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KHL_logo_shield_2016.svg/1200px-KHL_logo_shield_2016.svg.png" group-title="WorldSports2", RUS | KHL HD
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgf8hpeqRJTg3FLtyHBfMZxNlkY2JDRPZfQ&usqp=CAU" group-title="WorldSports2", RUS | VIASAT SPORT
+http://myott.top/stream/DHMU2PPUTSS/333.m3u8
+#EXTINF:-1 tvg-logo="https://audienzz.ch/wp-content/uploads/2016/10/swiss_sport.tv-logo-1.png" group-title="WorldSports2", SUIZA | SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="WorldSports2", TK | TRT SPOR
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU" group-title="WorldSports2", UCRA | FOOTBALLUA 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU" group-title="WorldSports2", UCRA | FOOTBALLUA 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU" group-title="WorldSports2", UCRA | FOOTBALLUA 3
+https://95-213-172-220.livesports24.online/football3ua.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbIkxCjYHGpobHQhKkaqUu66j7sYuK8C8YEsIsoasP&s" group-title="WorldSports2", UCRA | SPORT1
+https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/f/f3/World_Rugby_Sevens_Series_logo.png" group-title="WorldSports2", UK | RUGBY MEN'S SEVEN
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="WorldSports2", UK | RUGBY WOMEN'S SEVEN
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+
+
+
+=======++++++=++++++++++++++++++++++Спорт=================================
+#EXTINF:-1 group-title="Спорт",Tvp Sports
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Setanta Sport1
+https://sportuslive.ru/setanta1/tracks-v1a1/mono.m3u8
+https://sportuslive.ru/setanta1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sport2
+https://sportuslive.ru/setanta2/tracks-v1a1/mono.m3u8
+https://sportuslive.ru/setanta2/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://31.134.132.245:8080/football1_hd/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://31.134.132.245:8080/football2_hd/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://31.134.132.245:8080/football3_hd/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Футбол 2
+https://s4.idata.uz/football2/tracks-v3a1/rewind-7200.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Fightbox
+http://hlstv.kem.211.ru/239.211.211.166/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+https://95-213-224-174.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 4K HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 1 (Espanol)
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 2 (Espanol)
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! ТВ
+http://hlstest.eltex-media.ru:8085/Match!/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://185.74.7.220:8080/arena/tracks-v1a1/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+https://s4.idata.uz/arena/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+https://sportuslive.ru/marena/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+http://31.134.132.245:8080/boec/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+https://s4.idata.uz/igra/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+http://31.134.132.245:8080/match_igra_hd/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+https://s1.idata.uz/stch_temp19/tracks-v1a1/rewind-7200.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchstrana
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+https://sportuslive.ru/matchstrana/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Матч!Премьер http://81.163.39.156:8384/udp/233.166.172.140:1234
+#EXTINF:-1 group-title="Спорт",Матч!Премьер
+http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Бокс ТВ 
+http://81.163.39.156:8384/udp/233.166.172.53:1234
+#EXTINF:-1 group-title="Спорт",Телеканал Футбол 
+http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Телеканал Футбол
+http://195.189.238.119:80/timeshift/futbol/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTE0Mzk0ODMsImlhdCI6MTYxMTM1MzA4MywiY2lkIjo2LCJ1aWQiOjQwNTg4NDQ5MCwicmVnIjpmYWxzZSwiaXAiOjYzMDIxMDk5MH0.BP3T-gyIO_4H_FdFAp-tWwrxeH728M79sISa4IuCX8Y&offset=1
+#EXTINF:-1 group-title="Спорт",TVmatic Sport HD
+http://cdn.tvmatic.net/sport.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",TVmatic Fight HD
+http://cdn.tvmatic.net/fight.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",WWE HD
+http://cdnups.cf:3000/vseotv.ru/vseotv.ru/55
+#EXTINF:-1 group-title="Спорт",Моторспорт ТВ
+http://212.79.122.24:7027/eurosport1
+#EXTINF:-1 group-title="Спорт",M-1 Global
+http://hlstv.kem.211.ru/239.211.211.190/stream.m3u8
+#EXTINF:-1 group-title="Спорт",M-1 Global HD http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+https://sc.id-tv.kz/khl_hd_34_35.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://89.223.46.188:8080/khl/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://176.222.190.76/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Qazsport HD
+http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8?token=gelow74
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 3
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 1
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 2
+https://95-213-224-179.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 3
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 4
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 5
+https://95-213-224-179.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 6
+https://95-213-224-179.livesports24.online/migra.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 7
+https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
+http://77.54.145.209:81/play/a02j 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
+http://77.54.145.209:81/play/a02n 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
+http://77.54.145.209:81/play/a02o 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",B hdTV 
+http://77.54.145.209:81/play/a032 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport01 TV 
+http://77.54.145.209:81/play/a00a 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport02 TV 
+http://77.54.145.209:81/play/a03d 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Setanta Sports 1 (BACKUP)
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS 1
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS" 1
+http://92.43.140.200/s81/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espnu
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn accn
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn sec
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn fs2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+========================================================================FOOTBALL2=============================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",STAR SPORTS
+rtmp://58.200.131.2:1935/livetv/starsports
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", ru sport tv 
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", SERI A ITALIA 
+http://217.174.225.146/hls/ch004_720/index.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", STADIUM 
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+
+
+
+
+=============================================BeinSports==================================================================
+
+
+
+
+
+========================================================================FoxSports=================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1*
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS2*
+http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3*
+http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
+
+
+
+
+
+
+=====================================================AstroSports===========================================================================
+
+
+=======================================================================SportsUnggulan====================================================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNICH TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mola Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mytgon
+http://92.43.140.200/s41/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Fast box
+http://92.43.140.200/s79/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",GLOBAL WEEKEND
+http://92.43.140.200/s89/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mancing mania
+http://92.43.140.200/s55/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TVRI SPORT 
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
+#EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan", SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Star Sports 1
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",TDM SPORT MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",TRUE TENIS HD
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",TRUE GOLF HD
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TENIS LAPANGAN  1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TENIS LAPANGAN  2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT SPORTS
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",NBA Tv
+#https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",ARHAT SPORT TV
+http://arhat.tv/public/360p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+
+
+
+
+=============================================================SportsArab1================================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsArab1",ARYADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsArab1", Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsArab1", Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsArab1", Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsArab1", Ad Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+
+
+
+=============================================================SportsArab2================================================================================
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SportsArab2",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+
+
+============================================================SPORTS=====================================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",E-sport Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SPORTS",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",DD sportS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",FightBox
+http://92.43.140.249/s86/04.m3u8
+
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Vanquish (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  Mortal Kombat (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  Nobody (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama  My True Fairytale (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/6c67e8f8d3ce142424c126fbab8bfa36/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  Honeydew (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/88e23e661ffcc09379e479f15d4fe49a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  Held (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  The Marksman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  Lazarus (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  A Writer's Odyssey (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  Thunder Force (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  The Oak Room (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/71f856f0db9aa8d8f0f819ed1bbe955e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  Dawn of the Beast (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  Assault on VA-33 (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Adventure  Hero Dog: The Journey Home (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3043155549bcb28a7b2dbdc28f757c82/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  American Liar (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama  The Arbors (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime  One and the Same (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/dec3d11a485cb4e3b2d32a8d85b7056c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  The Toll (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror The Seventh Day (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action  The Yin Yang Master
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  Amber's Descent (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/089fdf8db58c2401d931c5850fbf8276/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Sci-Fi  Doors (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy  Happily (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a8245d9af74140add28955726247a3a5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  The Seventh Day (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror  The Toll (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama  Wildcat (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime  One and the Same (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/dec3d11a485cb4e3b2d32a8d85b7056c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime  The Wife (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",ACTION: ARMAGEDDON TALES (2021) 
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama:  Quo Vadis, Aida? (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3946ad19757a6b2b781a2ec8198a6482/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama:  Trust(2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror:  Come True(2021)
+https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama:  Paper Lives (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/974a022dfb8011dba60ee039120f57c4/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action:  SAS: Red Notice (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d526cc20885c06e026cb23304abc5bd7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror:  Stay Out of the F**king Attic (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action:  Teddy (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy:  Yes Day (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a51a6d26ec4fcb88526afcb64c94b69e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror:  60 Seconds to Di3) 2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy:  New Year Blues (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7b043632e78a1ef2410de7a9ee46f4cd/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action:  Cabras da Peste (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/8602e34c92983319cd009c653298f216/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Sci-Fi:  Exodus (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3d0b7c4ac18401cbaecef6c8521acae9/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime:  Operation Varsity Blues: The College Admissions Scandal (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror:  Phobias (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime:  Road to Damascus (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action:  Wu Song’s Bloody Battle With Lion House (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b9b11c30beb13b11c1d88de8a0a10b62/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action:  Zack Snyder's Justice League (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/346d158048eb93d273de942c5da2f090/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: The World to Come (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/776916aa1572dc2cb0bb7b51c63efe6f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Coming 2 America (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7ff682ddde3d6cee268fa644f24fb60f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Crisis (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: Dreamcatcher (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Love, Lost & Found (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/31fb99b7379b012ecad026edf49480b6/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Moxie (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Raya and the Last Dragon (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/23a92a8ccbb8f8362fb6f336ed364888/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Sentinelle (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/653c870a59331c0e1abbb05b48869eea/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Texas Red (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a22b6b9b5b6dd732bcb2653c706c711c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: The Soul (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/aaab4072eed83b9fbe18ca83e9f2447e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Mistery: Blood Brothers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Just Noise (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: The Winter Lake (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b5873e9dbe4243abb12c4c545b77a472/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Breaking News in Yuba County (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/53719bd461fe52fdee4b09321afd0d4f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Cherry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: How to Stop a Recurring Dream (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/dd684d23949727868a7d1be120b4e116/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Thriller:  I Portrait (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3b1be98c530c5040950e21f479d95599/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action:  Insight
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror:  Know Fear (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/301eb8fa05563afcfa4aa03037177c10/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror:  The Canyonlands (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Girl in the Basement (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: The Dead of Night (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: The Redneg (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/ee84350204b03a8bbf33e09233b42a05/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Cosmic Sin (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Land (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: The Devil Below (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: The Mauritanian (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Death Chasing (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/582553f9a63786425b9073016fd156c9/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: New Justice Bao: The Nanxia Mystery Case (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7aab4e0be500a3460e526b8a0b43d3f0/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Counterattack (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Proud of Love (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Super Pacifier (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d4e1e65abaaf2f30afd336f10d4f2523/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Forbidden Martial Arts: The Nine Mysterious Candle Dragons (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/84e8de8d981b66130fd217bdcb1ab997/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Barb and Star Go to Vista Del Mar (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Paranormal Prison (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: The Red Nightmare (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Burn It All (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/9d7ff466bee422b94c1d0b7d4daf152a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Adventure: Flora & Ulysses (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b99386358c1f3e0330682034d8c6b88f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Deama: HILO 2 (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: Shook (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Dream About Face-Change Comes True (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: The Mad Monk (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/16e261514edd3ecb40befdddb2b6fc9b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: I Care a Lot (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d5345b593d97a14898e321dfbdcbb7d8/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: 400 Bullets (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Body Brokers (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/2e3c374ff6e274c2ffd5954e7684dc89/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Armageddon Tales (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The Pond (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: The Girl on the Train (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Kids: Tom and Jerry (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Drishyam 2 (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Thriller: Alice Fades Away (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Biography: Judas and the Black Messiah (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Being Dead (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/6566fe01430080da3cc3fd20f4e1a7cd/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Silk Road (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Biography: Son of the South (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4b90f73e89298816d8751287caf48f10/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Squared Love (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: To All the Boys: Always and Forever (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/1e6075400b7da5fba809ffae4a667ff5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: Wrong Turn (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Thriller: Paradise Cove (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Willy’s Wonderland (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0c912b6e5536d5ba09a1d4871b999ae7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Triassic Hunt (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8c38d7d33f136369e5c0eca7804a1f0c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Fantasy: The Map of Tiny Perfect Things (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/021067a30fde31011709ee564e2d4c7d/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: Sator (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Red Dot (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Green Dragon Crescent Blade (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b123678e3928a46304ce8d49e5956851/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: En Passant Pécho: Les Carottes Sont Cuites (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/07986d6aaa9632efaaa549f693ba2dfd/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Cowgirls vs. Pterodactyls (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/f16a44f49688336fd53be4d056a6c802/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: Sacrifice (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/e4744c1939ddbae9b3a23c3c4a4098e8/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Adventure: Norman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4b7ea26e36b17f69c4cb9c2c4dbdef89/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Narco Sub (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/24461b81069bb0d529fef629122cbfeb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Little Fish (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/c77550cc34a64283c22553496a384ddf/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Heroes Return (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Thriller: Faceless (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Sci-fi: Expiry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: The Funeral Home (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d8aed09a3dbcd45c02bc7c02c0ebabbe/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Western: The Rodeo Thief (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/658c38672faf9c45bb2ccf9cac1e64e1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: The Right One (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Horror: The Reckoning (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/954a255d5a817ff5ceee232cc2580541/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Documentary: Strip Down, Rise Up (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/e2caf136a920c733e4b4351e6fa211de/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Master (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Malcolm & Marie (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/136fbe7304c0f285d9f0c1ffb61f7288/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Lena and Snowball (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7f78e0eaa2063a4a5578f2f45f3d5abc/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Twist (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Action: Space Sweepers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Payback (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: L'ultimo paradiso (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/9c238dab3ea73d84159dd139f08902f0/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crime: Flinch (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a92e4f6e1d2eb587a5c52a882b38274a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Fear of Rain (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/173a071836837c214b0c68ea15223537/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Comedy: Dead Again (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4a438f729eecfb7f5b57f312533c2b39/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Drama: Bliss (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Psycho Goreman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b1f52e5435ab121602765b3156dde817/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The White Tiger (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",No Man’s Land (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/247d09ccfc4386a13c8dafceff02f7a2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Batman: Soul of the Dragon (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Outside the Wire (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/2c880f49e8ac4efaa4bd596bb32d6f6c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Goodbye Butterfly (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Dead in the Water (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c60333d65ea8d34b5ff0533c1a83961d/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Butchers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Born a Champion (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7e70c3f1bd2631fc061e6346586778e7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Battle in Space: The Armada Attacks (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Attack of the Giant Blurry Finger (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/5b89d095da9ff29a1b29e9630afa67f6/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Hunted (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Redemption Day (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Crack: Cocaine, Corruption & Conspiracy (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/27776ae4003143ecfec5e47974f0bf3d/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Norm of the North: Family Vacation (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",American Dream (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Sorry I Killed You (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/c15cf4145354335b44155888e9295dca/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The Minimalists: Less Is Now (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Strike Back (2021)
+https://www87.uptostream.com:443/3aaj2jkec00/360/0/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Agent Revelation (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d0adfce9414c05dc3f5fde984012a1c7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Finding 'Ohana (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Caged (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d2d320a35c8bf9376d8f5d1f84f2af76/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Agent Revelation (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d0adfce9414c05dc3f5fde984012a1c7/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Locked Down (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/cbc4a7fc4b8e984e1c14ec595efb1a07/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Our Friend (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/510fcb928191ab4a616b4d690c718371/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Penguin Bloom (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The Dig (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7a152b927f651e7fa08d599cf5a2da17/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The Little Things (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0fb6096fc12a6353f91e24444b7425ee/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Palmer (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Heymaker (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/08a48027db41bb31ba254763b421a55f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Hellkat (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The Serpent (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/fac76f30fad708d91ba57fef97e2adbb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Below Zero (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7184af7f929ceff3cf7ae4a3871eef51/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Kill Cavalry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",Psycho Goreman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b1f52e5435ab121602765b3156dde817/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2021",The Power (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+
+=++++==========++=========VOD2020====++++++====++++4+++++
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Scoob! (2020)
+http://srv32.nf21.net:80/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Legacy (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fad3d8a846ff9cf7de680bab92b3d87b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Arus Merah (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/0b28f5e3f288a5a17b6489bc950133c1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",The Flood (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/476a13fa1ef4c7fc1c71f480f2f04c51/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Hannah Gadsby: Douglas (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/f0b356679d57430a4e8cbcf3348e7d5e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Death to 2020 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/3befc0d0f964ca082cf6e7ac0f161b45/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Curious George: Go West, Go Wild (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/e56c81d5449da58d87847affc58a3acd/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Caught in Time (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/710e4b3c0bb6a5eb2a832597f9afbd40/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Break (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/eb2099492e8f59fb5233769e463e4636/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",The Sacrifice (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2a84f9523005c9d87bdfcb855e299197/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Skull: The Mask (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/79736514e1b0e2179f28a72f8783b76c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Brothers by Blood (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/4cfbfabc6c14c64eed5be5ec14f5ebf2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Elfland (2020) 
+https://cdn3ii.diebutx.com/own2hls/2020/c85c934bb0ef0a90e5cda12ae40ddd4b/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",The Booksellers (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c71a06385f4154f3bb3ce824664e2a96/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Mother Gamer (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/7f4f52d6b6861d3d494c98d03779233a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",The 100 Candles Game (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c8eef9d5713eafa001b1193852f573c6/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",News of the World (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2b73714381607322a18f8aba0ee64055/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Go/Don't Go (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/e7b976709159d82712a6e2c230d5218f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Fatale (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/a913e15fe7f3d741aa15478c57494274/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Driven to the Edge (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c7bbf6e0da337e331095cf7dde189669/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Don't Tell a Soul (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fb83af3f0aafb980ae4e7bdac7cadc48/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Bright Hill Road (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c2ed5099758bc1b198c083a2befa532e/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Bloody Hell (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/d3f2a83d7c24d05aa367550112447a17/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Ainu Mosir (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/765fe317fe865d87591c90f94268f734/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",American Thief (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/85200879f29f8bfa90e20b64a1642ff8/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Echo Boomers (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/1340f282d4151dd51bd34b1bb1989e5f/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Super Monsters: Dia de los Monsters (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/1a01623d18c04a62d17ec59f0a6e638a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Monster Zone (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/361e9c90fae5559ae6b699d8013db3db/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Algorithm: BLISS (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/152ef54c67176235476369796aba7dc5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",AK vs AK (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/91784424f9d5113c02fa1924c5adb7e1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Elf Pets: Santa's Reindeer Rescue (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/3b6dca8210493862b6eccf84787ab50c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Crazy Samurai Musashi (2020) 
+https://cdn3ii.diebutx.com/own2hls/2020/fe72782a9d59b271bbef7fa2d07c571a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Chico Bon Bon and the Very Berry Holiday (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/d8ca1766ad50e7da63b9fdeabc2547af/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Army of One (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/905e3ea65f72dc2455fd922974950c7b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Archenemy (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/0c052f5fe92b5403794e76a059b6eb18/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: Savage Creatures (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/89eea15345778589302c897d5eb41b4a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Adventure: Nina of the Woods (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/529fb8b154bfd7ab704813f428484322/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Adventure: Meteor Moon (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c5a63739d9c93b2e6c374a6c880f3c4b/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Fast Forward (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/9db7878b58028bb733c00947f7bf9b60/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Darbar (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/820e5735b3585b1ffbd4d819884ba5c2/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: Castle Freak (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/16177b59396578a9f31eeb9191b20849/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: Camp Cold Brook (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/756c8be252a33e7fda2889e2a834cded/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Breach (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/c673d59b3aac257831165b66bee324ed/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",War: Battle of the Bulge: Winter War (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/09ff9ea178ec74565a851399e7d41314/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Thriller: Escape: Puzzle of Fear (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/05be836ab98cb511901cb03b148c1d32/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Embattled (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/cb5562204038cf5ffde8ed2176e4bd6a/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Monster Hunter (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/daccfedc079aaa620543cef587c6ffaa/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: The Rope Curse 2 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c9ffb15b8a928247b83eb8d5830460dc/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Shadow in the Cloud (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/db074b36e21f104bb81c265ad61ab7ee/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Snake: Fall of a City (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/36e71b16080ca3c19da25f7c6a380597/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Mulan Angels 2: Treasure Map (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/4c5516f2c488e30c8672e80fd0a0d308/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Drama: Your Name Engraved Herein (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/1a86fe875081a0a4c2a1acff8400d47c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Wonder Woman 1984 (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: We Can Be Heroes (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/835fcaa7dca26e4c61f4adcaf2b00b3b/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: Vampire Virus (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/9e3f8a0f2e6419fd68b1395268188817/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Torbaaz (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/ea4a658577adad070994f0ff4c041831/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: The Golden Holiday (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/daf3c4b968dda3ff2b71084fddd0b484/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Crime: The Empty Man (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/545001948dc9707974c5d639df1f5b47/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: The Bloodhound (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/b7356eb0daf8d5cca2c64de37721386c/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Adventure: Strain 100 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/a6bceff5d849170be59511f1faa6dbb5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Mistery: Frieda: Coming Home (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/bc2989da9ed05f2c03fa8e14d02a3307/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Force of Nature (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/6b1d93947b54fe40e0fa3d94c3a643ac/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Drama: Exit (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2066b558ed198474e48854ecd7cf6275/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: Hunter Hunter (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/ae42e69fd36ef19d3d9e7db9703cdb58/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Knuckledust (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/8d332212f9caa1d3e6af206526b20da4/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Skylines (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/5bf5dd48e47ee6d73f03076087e31936/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Seized (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/d97cae7893699e2ec56ee4251b7e2736/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Horror: Spare Parts (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/7a54df56b351e4358fb9aa87de84e77a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: The Croods: A New Age (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/200447cd05c30e6cf57b2b39f677f3f1/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: True and False Monkey King (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/0306e77677264980256847006301e838/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Drama: Inheritance (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/6916ee97a54af6dc6b2c09ab78faf683/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Crime: Savage (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/cd04110c5ff453faadaa98fe8c59abec/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: Monsters of Man (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/877d98cd8c8333e3e97505087bc241e5/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Kids: Magic Arch 3D (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/af6c77cd918dc18841f05675abcd6c5a/540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Action: L.O.R.D: Legend of Ravaging Dynasties 2 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/7fb8d4f27064828f11d397a2f12e1632/540p/index.m3u8
+
+
+
+
+
+
+
+=====++++++++++++++++VodBestRating===+++++====
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VodBestRating",The Trigonal: Fight for Justice (2018)
+https://www.googleapis.com/drive/v3/files/1_sLSCqL7eaaN0DjnMKJG21kyw8KD0-hK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+=====================VOD========================
