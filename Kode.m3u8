@@ -92,6 +92,76 @@ https://liveanevia.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://liveanevia.mncnow.id:443/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",Cinemax AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/51
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX Action Movies AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX Crime AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX Family Movies AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX Life AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX Movies AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
+#EXTINF:0 tvg-id="ext" group-title="FOX",Gem AXC-myid
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/24
+
+
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hbo 480x270
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBO_480x270.m3u8
+https://www.dropbox.com/s/rb7wdeg82j1zgwg/hbo640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Family 480x270
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Family_480x270.m3u8
+https://www.dropbox.com/s/g95uybgwt5yz9ah/Family640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hits 480x270
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Hits_480x270.m3u8
+https://www.dropbox.com/s/7dqx3hfovmjuy5k/Hits640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Signature 480x270
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Signature_480x270.m3u8
+https://www.dropbox.com/s/18qo4g7sppme3z4/Signature640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cinemax 480x270
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX_480x270.m3u8
+https://www.dropbox.com/s/rgt3lfuygf7yw0f/Cinemax640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Red 480x270
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Red_480x270.m3u8
+https://www.dropbox.com/s/1d9h81pfytfmgjq/Red640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hbo 640x360 
+http://www.dropbox.com/s/rb7wdeg82j1zgwg/hbo640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Family 640x360 
+http://www.dropbox.com/s/g95uybgwt5yz9ah/Family640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hits 640x360 
+https://www.dropbox.com/s/7dqx3hfovmjuy5k/Hits640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Signature 640x360 
+https://www.dropbox.com/s/18qo4g7sppme3z4/Signature640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cinemax 640x360 
+https://www.dropbox.com/s/rgt3lfuygf7yw0f/Cinemax640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Red 640x360 
+https://www.dropbox.com/s/1d9h81pfytfmgjq/Red640.m3u8?dl=1
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONEW2021.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO FAMILY 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMILY2021.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO HITS 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITS2021.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO SIGNATURE 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNATURE2021.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMAX 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX2021.m3u8
+
+
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",TVN
