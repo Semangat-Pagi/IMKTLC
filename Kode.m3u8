@@ -1246,6 +1246,55 @@ https://liveanevia.mncnow.id:443/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="Sports",Soccer channel 
 https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 1 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 2 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 3 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 4 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 5 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 6 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ais Play 7 Paralimpyc
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sports",Sony TEN 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony TEN 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="Sports",Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",BEIN SPORT 1 V+
+https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",BEIN SPORT 2 V+
+https://akamai.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX SPORT 1 V+
+https://akamai.mncnow.id/live/eds/FoxSport-Siji/sa_dash_vmx/FoxSport-Siji.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX SPORT 2 V+
+https://akamai.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX SPORT 3 V+
+https://akamai.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",FIGHT SPORTS V+
+https://akamai.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",MNC SPORT V+
+https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",SOCCER CHANNEL V+
+https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",UseeSports1 _USEETV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+#EXTINF:0 tvg-id="ext" group-title="Sports",UseeSports2 _USEETV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
+#EXTINF:0 tvg-id="ext" group-title="Sports",champion-tv-1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",champion-tv-2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",champion-tv-3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
