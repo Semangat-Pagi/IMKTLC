@@ -364,6 +364,39 @@ http://184.173.181.2:1935/8044/8044/playlist.m3u8
 http://184.173.181.2:1935/8072/8072/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Erz.rcti" tvg-logo="https://www.freepnglogos.com/uploads/lion-logo-png/king-emblem-lion-image-png-9.png" group-title="VidioLokal", RCTI 
+https://iptvid.cgflix.xyz/lokal/rcti.m3u8 
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.freepnglogos.com/uploads/lion-logo-png/king-emblem-lion-image-png-9.png" group-title="VidioLokal", MNCTV 
+https://iptvid.cgflix.xyz/lokal/mnctv.m3u8 
+#EXTINF:-1 tvg-id="Erz.gtv" tvg-logo="https://pbs.twimg.com/profile_images/1346771276317085696/N5bjSnvm_400x400.jpg" group-title="VidioLokal", GTV 
+https://iptvid.cgflix.xyz/lokal/gtv.m3u8 
+#EXTINF:-1 tvg-id="Erz.indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZzOKCWZcdQTbxvueQaVaDKqW_Lpp-4pNtQ&usqp=CAU" group-title="VidioLokal",INDOSIAR 
+https://iptvid.cgflix.xyz/lokal/indosiar.m3u8 
+#EXTINF:-1 tvg-id="Erz.trans7" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="VidioLokal",TRANS 7 
+https://iptvid.cgflix.xyz/lokal/trans7.m3u8 
+#EXTINF:-1 tvg-id="Erz.transtv" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="VidioLokal",TRANS TV 
+https://iptvid.cgflix.xyz/lokal/transtv.m3u8 
+#EXTINF:-1 tvg-id="Erz.sctv" tvg-logo="https://pbs.twimg.com/profile_images/1260941238473129985/QCSgHIeO_400x400.jpg" group-title="VidioLokal",SCTV 
+https://iptvid.cgflix.xyz/lokal/sctv.m3u8 
+#EXTINF:-1 tvg-id="Erz.net" tvg-logo="https://pbs.twimg.com/profile_images/1361146630527807489/ZvWs_0w7_400x400.jpg" group-title="VidioLokal",NET
+https://iptvid.cgflix.xyz/lokal/net.m3u8 
+#EXTINF:-1 tvg-id="Erz.kompas" tvg-logo="https://pbs.twimg.com/profile_images/1371327041509810177/5XZxIVtV_400x400.jpg" group-title="VidioLokal",KOMPAS TV 
+https://iptvid.cgflix.xyz/lokal/kompas.m3u8 
+#EXTINF:-1 tvg-id="Erz.metrotv" tvg-logo="https://pbs.twimg.com/profile_images/1358658157115965441/XZIAzyrZ_400x400.jpg" group-title="VidioLokal",METRO TV 
+https://iptvid.cgflix.xyz/Usee/lokal/metrotv.m3u8 
+#EXTINF:-1 tvg-id="Erz.inews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtn67myVr_jb4DjGGVssqB2BN7Fy3K6Y0tA&usqp=CAU" group-title="VidioLokal", iNEWS 
+https://iptvid.cgflix.xyz/lokal/inews.m3u8 
+#EXTINF:-1 tvg-id="Erz.antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBe8wanHh_L-O0XxX-rl8D1K5QYpb90dyXA&usqp=CAU" group-title="VidioLokal",ANTV 
+https://iptvid.cgflix.xyz/lokal/antv.m3u8 #EXTINF:-1 tvg-id="Erz.tvone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcoiYwYUdhCLdVF5YHWQiOr2Gfhbc7DbF2w&usqp=CAU" group-title="VidioLokal",TVONE https://iptvid.cgflix.xyz/lokal/tvone.m3u8 
+#EXTINF:-1 tvg-id="Erz.cnn_id" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="VidioLokal",CNN INDONESIA 
+https://iptvid.cgflix.xyz/lokal/cnnid.m3u8 
+#EXTINF:-1 tvg-id="Erz.cnbc_id" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="VidioLokal",CNBC INDONESIA 
+https://iptvid.cgflix.xyz/lokal/cnbcid.m3u8 
+#EXTINF:-1 tvg-id="Erz.jktglobenews" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg" group-title="VidioLokal",JAKARTA GLOBE NEWS 
+https://iptvid.cgflix.xyz/lokal/jgn.m3u8
+
+
+
 =============+==++++++++++++++++++++++++++++++Indonesia============+=====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
