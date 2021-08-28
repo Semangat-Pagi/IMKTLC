@@ -2100,36 +2100,20 @@ http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",champion-tv-3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 1 HD
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 4 HD
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 5 HD
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="FoxSports.it" group-title="Sports",FOX Sports HD
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Sports",FOX Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Sports",FOX Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
