@@ -2216,7 +2216,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 #EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Sports",FOX Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
-
+#EXTINF:-1 tvg-id="indosiar" tvg-name="indosiar" tvg-logo="" group-title="WorldSports", INDOSIAR Liga 1 BRI
+http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-id="ochannel" tvg-name="ochannel" tvg-logo="" group-title="WorldSports", O CHANNEL Liga 1 BRI
+http://gpc.my.id/vidio/ochannel.m3u8
+#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport 1 USEETV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="indosiar" tvg-name="useesport1" tvg-logo="" group-title="WorldSports", UseeSport 2 USEETV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 1 HD
 http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 2 HD
