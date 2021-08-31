@@ -2729,10 +2729,13 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 ========================================================================FoxSports=================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1*
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS2*
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3*
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
 
 
