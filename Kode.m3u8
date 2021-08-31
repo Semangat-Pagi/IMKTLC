@@ -288,8 +288,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", IMC
+http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Bbc Four
