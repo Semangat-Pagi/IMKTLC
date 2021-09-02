@@ -2517,6 +2517,26 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 
 
 =======++++++=++++++++++++++++++++++Спорт=================================
+#EXTINF:-1 group-title="Спорт",Tvp Sports
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 1 (Espanol)
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Eurosport 2 (Espanol)
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",TVmatic Sport HD
+http://cdn.tvmatic.net/sport.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",TVmatic Fight HD
+http://cdn.tvmatic.net/fight.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?token=gelow74
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 1
