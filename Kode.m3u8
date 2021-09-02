@@ -2199,22 +2199,9 @@ http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",champion-tv-3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 1 HD
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 2 HD
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 3 HD
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 4 HD
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",unifi Sports 5 HD
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Sports",FOX Sports HD
-http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Sports",FOX Sports 2 HD
-http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Sports",FOX Sports 3 HD
-http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="indosiar" tvg-name="indosiar" tvg-logo="" group-title="WorldSports", INDOSIAR Liga 1 BRI
 http://gpc.my.id/vidio/indosiar.m3u8
@@ -2530,107 +2517,6 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 
 
 =======++++++=++++++++++++++++++++++Спорт=================================
-#EXTINF:-1 group-title="Спорт",Tvp Sports
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Setanta Sport1
-https://sportuslive.ru/setanta1/tracks-v1a1/mono.m3u8
-https://sportuslive.ru/setanta1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sport2
-https://sportuslive.ru/setanta2/tracks-v1a1/mono.m3u8
-https://sportuslive.ru/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://31.134.132.245:8080/football1_hd/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://31.134.132.245:8080/football2_hd/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://31.134.132.245:8080/football3_hd/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Футбол 1
-https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Футбол 2
-https://s4.idata.uz/football2/tracks-v3a1/rewind-7200.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Fightbox
-http://hlstv.kem.211.ru/239.211.211.166/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1
-https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Eurosport 1
-http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Eurosport 1
-https://95-213-224-174.livesports24.online/eurosport1ru.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2
-http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Eurosport 4K HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Eurosport 1 (Espanol)
-http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Eurosport 2 (Espanol)
-http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! ТВ
-http://hlstest.eltex-media.ru:8085/Match!/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://185.74.7.220:8080/arena/tracks-v1a1/index.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-https://s4.idata.uz/arena/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-https://sportuslive.ru/marena/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://31.134.132.245:8080/boec/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-https://s4.idata.uz/igra/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://31.134.132.245:8080/match_igra_hd/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-https://s1.idata.uz/stch_temp19/tracks-v1a1/rewind-7200.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchstrana
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-https://sportuslive.ru/matchstrana/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Матч!Премьер http://81.163.39.156:8384/udp/233.166.172.140:1234
-#EXTINF:-1 group-title="Спорт",Матч!Премьер
-http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Бокс ТВ 
-http://81.163.39.156:8384/udp/233.166.172.53:1234
-#EXTINF:-1 group-title="Спорт",Телеканал Футбол 
-http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Телеканал Футбол
-http://195.189.238.119:80/timeshift/futbol/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTE0Mzk0ODMsImlhdCI6MTYxMTM1MzA4MywiY2lkIjo2LCJ1aWQiOjQwNTg4NDQ5MCwicmVnIjpmYWxzZSwiaXAiOjYzMDIxMDk5MH0.BP3T-gyIO_4H_FdFAp-tWwrxeH728M79sISa4IuCX8Y&offset=1
-#EXTINF:-1 group-title="Спорт",TVmatic Sport HD
-http://cdn.tvmatic.net/sport.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",TVmatic Fight HD
-http://cdn.tvmatic.net/fight.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",WWE HD
-http://cdnups.cf:3000/vseotv.ru/vseotv.ru/55
-#EXTINF:-1 group-title="Спорт",Моторспорт ТВ
-http://212.79.122.24:7027/eurosport1
-#EXTINF:-1 group-title="Спорт",M-1 Global
-http://hlstv.kem.211.ru/239.211.211.190/stream.m3u8
-#EXTINF:-1 group-title="Спорт",M-1 Global HD http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ ТВ
-https://sc.id-tv.kz/khl_hd_34_35.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",КХЛ ТВ
-http://89.223.46.188:8080/khl/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",КХЛ ТВ
-http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Точка отрыва
-http://176.222.190.76/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Точка отрыва
-http://185.52.77.43:8080/TochkaOtriva/index.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?token=gelow74
-#EXTINF:-1 group-title="Спорт",Qazsport HD
-http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8?token=gelow74
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",ZQ SPORTS 
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",football 1
