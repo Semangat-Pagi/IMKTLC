@@ -2211,12 +2211,6 @@ http://gpc.my.id/vidio/ochannel.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="indosiar" tvg-name="useesport1" tvg-logo="" group-title="WorldSports", UseeSport 2 USEETV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 1 HD
-http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 2 HD
-http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",SK SPORT 3 HD
-http://31.220.41.86:8081/live/klub3.stream/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",USEE SPORTS 1
