@@ -2305,10 +2305,13 @@ https://95-213-224-174.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER2 SD 640P
 #https://www.livedoomovies.com:443/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",PREMIER2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
 http://23.237.78.54/live-1000/244/playlist.m3u8 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 1
 http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
