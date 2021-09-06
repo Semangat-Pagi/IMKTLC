@@ -20,6 +20,9 @@ rtp://239.1.1.252:9486
 #EXTINF:0,[909] UseePhoto HD
 rtp://239.1.2.24:8118
 
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Indosiar.png" group-title="Local Channel",INDOSIAR
+rtp://@239.1.1.17:8076
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="HD Channel",[910] NET. HD
 rtp://@239.1.1.158:8922
 
