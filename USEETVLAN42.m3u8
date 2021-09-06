@@ -32,14 +32,53 @@ rtp://@239.1.1.194:9138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="HD Channel",[912] Trans7 HD
 rtp://@239.1.1.222:9306
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="HD Channel",[913] CNN Indonesia HD
-rtp://@239.1.1.180:9054
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="HD Channel",[914] SCTV HD
 rtp://@239.1.2.58:8324
 
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Antv.png" group-title="Local Channel",ANTV
+rtp://@239.1.1.15:8064
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="HD Channel",[913] CNN Indonesia HD
+rtp://@239.1.1.180:9054
+
 #EXTINF:0,[915] Metro TV HD
 rtp://239.1.2.2:7986
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="Local Channel",TVRI
+rtp://@239.1.1.37:8196
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="Local Channel",TV One
+rtp://@239.1.1.31:8160
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="Local Channel",Kompas TV
+rtp://@239.1.1.197:9156
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/beritasatu.png" group-title="Local Channel",Berita Satu
+rtp://@239.1.1.183:9072
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JakTV.png" group-title="Local Channel",Jak TV
+rtp://@239.1.1.107:8616
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="Local Channel",RTV
+rtp://@239.1.1.69:8388
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/IDX-Channel.png" group-title="Local Channel",IDX Channel
+rtp://@239.1.2.248:9398
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/DAAITV.png" group-title="Local Channel",DAAI TV
+rtp://@239.1.1.179:9048
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/BALITV.png" group-title="Local Channel",Bali TV
+rtp://@239.1.1.72:8406
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JTV.png" group-title="Local Channel",JTV Surabaya
+rtp://@239.1.1.6:8010
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="Local Channel",Antara TV
+rtp://@239.1.1.128:9218
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVEdukasi.png" group-title="Local Channel",TV Edukasi
+rtp://@239.1.1.39:8208
 
 #EXTINF:0,[917] Jowo HD
 rtp://239.1.2.212:9208
@@ -70,6 +109,9 @@ rtp://239.1.2.100:9518
 
 #EXTINF:0,[927] Discovery Channel HD
 rtp://239.1.2.78:7984
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Kids/DuniaAnak.png" group-title="Kids",Dunia Anak
+rtp://@239.1.1.7:8016
 
 #EXTINF:0,[929] ANIPLUS HD
 rtp://239.1.2.104:9526
@@ -197,6 +239,18 @@ rtp://239.1.2.8:8022
 #EXTINF:0,[986] FRANCE 24 HD
 rtp://239.1.2.22:8106
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",UseeTV Preview Movie
+rtp://@239.1.2.223:9268
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/BioskopIndonesia.png" group-title="Movies",Bioskop Indonesia
+rtp://@239.1.1.226:9332
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/GALAXY-PREMIUM.png" group-title="Movies",Galaxy Premium
+rtp://@239.1.2.240:9390
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/TVN.png" group-title="Movies",tvN Movie
+rtp://@239.1.1.61:8340
+
 #EXTINF:0,[989] IMC HD
 rtp://239.1.1.145:8844
 
@@ -220,3 +274,59 @@ rtp://@239.1.1.211:9240
 
 #EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/image008.png" group-title="HD Channel",[999] FOX Action Movies HD
 rtp://@239.1.1.190:9116
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Lifestyle/Eat&Go.png" group-title="Lifestyle",Eat and Go
+rtp://@239.1.1.229:9350
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/Insert.png" group-title="Gen Entertainment",INSERT
+rtp://@239.1.1.113:8652
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Gen Entertainment",Citra Dangdut
+rtp://@239.1.1.143:8832
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/DuniaLain.png" group-title="Gen Entertainment",Dunia Lain
+rtp://@239.1.1.149:8868
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/TV5Monde.png" group-title="Gen Entertainment",TV5Monde
+rtp://@239.1.1.55:8300
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/chinese-drama.jpg" group-title="Gen Entertainment",Chinese Drama
+rtp://@239.1.2.10:8306
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CCTV4.png" group-title="Gen Entertainment",CCTV 4
+rtp://@239.1.1.115:8664
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Dinasty2-169rb_05.jpg" group-title="Gen Entertainment",HGTV
+rtp://@239.1.1.210:9506
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Dinasty2-169rb_08.jpg" group-title="Gen Entertainment",Zhenjiang
+rtp://@239.1.1.154:8898
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Dinasty2-169rb_10.jpg" group-title="Gen Entertainment",Shenzen TV
+rtp://@239.1.1.156:8910
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Dinasty2-169rb_07.jpg" group-title="Gen Entertainment",Panda TV
+rtp://@239.1.1.208:9502
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/Alqurankareem.png" group-title="Religion",Al-quran Kareem
+rtp://@239.1.1.185:9084
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/Rodjatv.png" group-title="Religion",Rodja TV
+rtp://@239.1.1.224:9320
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/mtatv.png" group-title="Religion",MTA TV
+rtp://@239.1.2.234:9374
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/Tv9.png" group-title="Religion",TV9
+rtp://@239.1.1.150:8874
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/TvMu.png" group-title="Religion",TV Muhammadiyah
+rtp://@239.1.1.170:8994
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/TVMUI.png" group-title="Religion",MUI Channel
+rtp://@239.1.2.52:8286
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/tawaf.png" group-title="Religion",Tawaf TV
+rtp://@239.1.2.236:9366
+
+
