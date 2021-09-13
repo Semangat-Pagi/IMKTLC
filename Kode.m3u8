@@ -2195,6 +2195,19 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",CHAMPIONS1 
+https://iptvid.cgflix.xyz/Usee/sport/chmp1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",CHAMPIONS2 
+https://iptvid.cgflix.xyz/Usee/sport/chmp2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",CHAMPIONS3
+https://iptvid.cgflix.xyz/Usee/sport/chmp3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",FoxSport1
+https://iptvid.cgflix.xyz/Usee/sport/fox1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",FoxSport2
+https://iptvid.cgflix.xyz/Usee/sport/fox2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",FoxSport3
+https://iptvid.cgflix.xyz/Usee/sport/fox3.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 1 PREMIUM 
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 2 PREMIUM 
