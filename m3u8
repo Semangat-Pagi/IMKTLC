@@ -34,48 +34,67 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Transtv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV
 https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANSTV|
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Trans7.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TRANS7|
 http://45.126.83.51/qwr9ew/s/s101/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Mnctv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNCTV 
 https://livetv01.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV*
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MNC TV%
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Rcti.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI 
 https://livetv01.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",RCTI +
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",Gtv*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Gtv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV +
 https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",GLOBAL TV
 https://livetv01.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com:443/live/778/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Net.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
 http://nonton.wap.sh/id/012.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV"
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV*
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", NETTV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:0 tvg-id="NetTV.hr" group-title="Indonesia1",NETTV**
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Sctv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV**
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",SCTV***
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Indosiar.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Antv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv|
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Antv
@@ -96,10 +115,13 @@ http://nonton.wap.sh/id/013.m3u8
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV VID
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Metrotv.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", MetroTV
 https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TvOne*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Tvone.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TvOne 
 http://nonton.wap.sh/id/010.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", TvOne"
@@ -110,6 +132,8 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(dc9040ad-a4
 http://nonton.wap.sh/id/014.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", Kompas TV|
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",INEWS*
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Inews.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",INEWS
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1", INews TV 
