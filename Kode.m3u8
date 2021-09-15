@@ -2168,27 +2168,12 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",CHAMPIONS1 
-https://iptvid.cgflix.xyz/Usee/sport/chmp1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",CHAMPIONS2 
-https://iptvid.cgflix.xyz/Usee/sport/chmp2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",CHAMPIONS3
-https://iptvid.cgflix.xyz/Usee/sport/chmp3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",FoxSport1
-https://iptvid.cgflix.xyz/Usee/sport/fox1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",FoxSport2
-https://iptvid.cgflix.xyz/Usee/sport/fox2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",FoxSport3
-https://iptvid.cgflix.xyz/Usee/sport/fox3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
+http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 1 PREMIUM 
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 2 PREMIUM 
 http://178.175.132.170:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport1*
-https://iptvid.cgflix.xyz:443/Usee/sport/usees1.m3u8
-#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport2*
-https://iptvid.cgflix.xyz:443/Usee/sport/usees2.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport 1 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="indosiar" tvg-name="useesport1" tvg-logo="" group-title="WorldSports", UseeSport 2 
@@ -2312,22 +2297,6 @@ http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
 #http://185.59.223.95:80/STARSP_1HD/tracks-v1a1/mono.m3u8?Urj7svfj=&Rkj2f3jk=&Czj1i9k6=
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Eurosport 2
 #https://www.livedoomovies.com:443/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 1*
-https://iptvid.cgflix.xyz:443/sports/assp1.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 2*
-https://iptvid.cgflix.xyz:443/sports/assp2.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 3*
-https://iptvid.cgflix.xyz:443/sports/assp3.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 4*
-https://iptvid.cgflix.xyz:443/sports/assp4.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 1
-#http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 2
-#http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 3
-#http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 4
-#http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA*
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein1
