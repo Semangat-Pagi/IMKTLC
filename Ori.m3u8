@@ -2173,6 +2173,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 3
+http://93.157.62.180/Supersport3/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="Sports",tes
@@ -2203,9 +2210,8 @@ http://178.175.132.170:8888/02_epl2_720p_UK/chunklist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="indosiar" tvg-name="useesport1" tvg-logo="" group-title="WorldSports", UseeSport 2 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",USEE SPORTS 1, 
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",USEE SPORTS 1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
-
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
@@ -2308,8 +2314,6 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2°
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
 #https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -2560,15 +2564,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 ========================================================================FoxSports=================================================================
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS1*
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS2*
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOXSPORTS3*
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
 
 
 
