@@ -2173,6 +2173,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="ext" group-title="Sports",tes
+https://etslive-2-vidio-com.akamaized.net:443/exp=1633186410~acl=%2fvp9%2f8025_stream.mpd%21%2fvp9%2f8025%2f%2a~hmac=55ed0433641e559d72167cf930d898380c5b99910c59bab6a49401db84dc5418/vp9/8025_stream.mpd
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",WWE
