@@ -2167,9 +2167,20 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="ext" group-title="Sports",UseeSports2 _USEETV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
-
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 1
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 2
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 3
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 4
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",PPTV
+https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
+http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 1 PREMIUM 
 http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 2 PREMIUM 
@@ -2180,31 +2191,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",USEE SPORTS 1, 
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6708
-http://iptv.tvmalaysia.cc:80/989898/989898/6708
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6710
-http://iptv.tvmalaysia.cc:80/989898/989898/6710
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6711
-http://iptv.tvmalaysia.cc:80/989898/989898/6711
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6712
-http://iptv.tvmalaysia.cc:80/989898/989898/6712
-#EXTINF:0 tvg-id="FoxSports.it" group-title="WorldSports",FOX Sports HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6793
-http://iptv.tvmalaysia.cc:80/989898/989898/6793
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="WorldSports",FOX Sports 2 HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6791
-http://iptv.tvmalaysia.cc:80/989898/989898/6791
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="WorldSports",FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6792
-http://iptv.tvmalaysia.cc:80/989898/989898/6792
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="WorldSports",STAR SPORT 1
-http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="WorldSports",STAR SPORT SELECT 2
-http://jupiter.bdcabletv.com/select_2/video.m3u8
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
@@ -2307,48 +2294,22 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",bein2°
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/index.m3u8
-#https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/index.m3u8
-#https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png",SKYNET SPORTS 3
-http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/index.m3u8
-#https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORTS 4
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png",SKYNET SPORTS 5
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 6
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
 #https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
 #https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
 #https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5
-#https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORT​S TV 1
-http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORT​S TV 2
-http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg",SPORT​S TV 3
-http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",SPORT​S TV 4
-http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg",SPORT​S TV 5
-http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WorldSports",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Матч! Футбол 1 HD
