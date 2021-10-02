@@ -2172,6 +2172,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="ext" group-title="Sports",UseeSports2 _USEETV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
+
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
