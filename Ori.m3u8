@@ -2173,7 +2173,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Skysports MOTOGP
+http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 2
@@ -2488,29 +2489,7 @@ https://95-213-224-179.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 6
 https://95-213-224-179.livesports24.online/migra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 7
-https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",NBCSN 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
-http://77.54.145.209:81/play/a02v
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
-http://77.54.145.209:81/play/a02j 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
-http://77.54.145.209:81/play/a02n 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
-http://77.54.145.209:81/play/a02o 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",B hdTV 
-http://77.54.145.209:81/play/a032 
+https://95-213-224-179.livesports24.online/matchplanetarus.m3u8 
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport01 TV 
 http://77.54.145.209:81/play/a00a 
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport02 TV 
