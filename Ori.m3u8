@@ -2173,6 +2173,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ZQ SPORTS 
+https://six1.zqprem.com/ZQSport-app/index.mpd
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Skysports MOTOGP
 http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 1
