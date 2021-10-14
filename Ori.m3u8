@@ -2173,8 +2173,15 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",champion1 
-https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-6685
+
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP1
+https://tinyurl.com/32a67rds
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP2
+https://tinyurl.com/ym8cntjt
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP3
+https://tinyurl.com/5f3atddd
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP4
+https://tinyurl.com/cwvzchmv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ZQ SPORTS 
@@ -2208,17 +2215,6 @@ https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 #EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",PPTV
 https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
-http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 1 PREMIUM 
-http://178.175.132.170:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",BEIN SPORT 2 PREMIUM 
-http://178.175.132.170:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="useesport" tvg-name="usee sport Liga 1 BRI" tvg-logo="" group-title="WorldSports",UseeSport 1 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="indosiar" tvg-name="useesport1" tvg-logo="" group-title="WorldSports", UseeSport 2 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",USEE SPORTS 1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
