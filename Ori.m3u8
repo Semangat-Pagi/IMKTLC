@@ -2172,7 +2172,30 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:0 tvg-id="ext" group-title="Sports",UseeSports2 _USEETV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
-
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",SPOTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",No name
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",SPOTV2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 1
+https://home-tv.my.id/sialan/vidio_championstv1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ChampionTV1.id
+http://www.wiragana.com/live/ch1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 2
+https://home-tv.my.id/sialan/vidio_championstv2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ChampionTV2.id
+http://www.wiragana.com/live/ch2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 3
+https://home-tv.my.id/sialan/vidio_championstv3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ChampionTV3.id
+http://golive.cf/live/afc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Liverpool F.C. TV
+https://c3b0k.000webhostapp.com/~.m3u8?v4nt4t=7916
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Usee Sport
+http://103.30.87.238:443/hometv/homelive/1376
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Usee Sport 2
+http://103.30.87.238:443/hometv/homelive/1377
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",MOTO GP
 http://www.wiragana.com/live/motorgp.m3u8
 http://s1.urhdiptv.net:8080/mma2/45212156/103869
