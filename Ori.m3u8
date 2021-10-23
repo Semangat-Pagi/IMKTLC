@@ -2173,7 +2173,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",MOTO GP
+http://www.wiragana.com/live/motorgp.m3u8
+http://s1.urhdiptv.net:8080/mma2/45212156/103869
+https://dornatoken.secure.footprint.net:443/token=nva=1635000007~dirs=2~ip=182.253.48.207~data=OnCWaLACM1QxzWI7fu8uBDOi3fkVkI%252FdJpzEzkppC8QialaoNXn4NmShhawNI5ZY~token=035de9b9a1e8ba7930771/hls/ipfmix/4.m3u8?start=0&
+http://www.wiragana.com/live/motorgp.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP1
 https://tinyurl.com/32a67rds
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP2
