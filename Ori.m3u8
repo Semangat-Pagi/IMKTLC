@@ -2076,10 +2076,6 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",No name
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",SPOTV2
-https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP1
 https://tinyurl.com/32a67rds
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP2
@@ -2088,12 +2084,6 @@ https://tinyurl.com/ym8cntjt
 https://tinyurl.com/5f3atddd
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP4
 https://tinyurl.com/cwvzchmv
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 1
-http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 2
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersports 3
-http://93.157.62.180/Supersport3/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Arena
@@ -2146,17 +2136,6 @@ http://mantul.biz.id:8888/aruba/aruba/9270
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="SuperSport6.al" group-title="WorldSports",Supersport 6
 http://93.157.62.180/Supersport6/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-http://158.69.25.22:25469/live/cvasd6g6g5bv/cvasd6g6g5bv/200238149.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 1
-https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 2
-https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 3
-https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Sports 4
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 3'
 http://93.157.62.180:80/Supersport2/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Live LIGA INGGRIS 11
