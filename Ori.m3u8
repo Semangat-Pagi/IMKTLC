@@ -1,27 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox hd
-https://liveanevia.mncnow.id:443/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox life
-https://liveanevia.mncnow.id:443/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox crime 
-https://liveanevia.mncnow.id:443/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox Movies 
-https://liveanevia.mncnow.id:443/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox action movies 
-https://liveanevia.mncnow.id:443/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Fox family movies 
-https://liveanevia.mncnow.id:443/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Hbo
+https://liveanevia.mncnow.id:443/live/eds/HBOFamily2/sa_dash_vmx/HBO.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Hbo family 
@@ -76,10 +56,6 @@ https://liveanevia.mncnow.id:443/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 https://liveanevia.mncnow.id:443/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Scm legend 
-https://liveanevia.mncnow.id:443/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Zee bioskop 
 https://liveanevia.mncnow.id:443/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -90,61 +66,6 @@ https://liveanevia.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Tvn Movies 
 https://liveanevia.mncnow.id:443/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-
-#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOX",Astro Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOX",CELESTIAL CLASSIC MOVIE 
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hbo 480x270
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBO_480x270.m3u8
-https://www.dropbox.com/s/rb7wdeg82j1zgwg/hbo640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Family 480x270
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Family_480x270.m3u8
-https://www.dropbox.com/s/g95uybgwt5yz9ah/Family640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hits 480x270
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Hits_480x270.m3u8
-https://www.dropbox.com/s/7dqx3hfovmjuy5k/Hits640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Signature 480x270
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Signature_480x270.m3u8
-https://www.dropbox.com/s/18qo4g7sppme3z4/Signature640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cinemax 480x270
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX_480x270.m3u8
-https://www.dropbox.com/s/rgt3lfuygf7yw0f/Cinemax640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Red 480x270
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Red_480x270.m3u8
-https://www.dropbox.com/s/1d9h81pfytfmgjq/Red640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hbo 640x360 
-http://www.dropbox.com/s/rb7wdeg82j1zgwg/hbo640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Family 640x360 
-http://www.dropbox.com/s/g95uybgwt5yz9ah/Family640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hits 640x360 
-https://www.dropbox.com/s/7dqx3hfovmjuy5k/Hits640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Signature 640x360 
-https://www.dropbox.com/s/18qo4g7sppme3z4/Signature640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cinemax 640x360 
-https://www.dropbox.com/s/rgt3lfuygf7yw0f/Cinemax640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Red 640x360 
-https://www.dropbox.com/s/1d9h81pfytfmgjq/Red640.m3u8?dl=1
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONEW2021.m3u8
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO FAMILY 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMILY2021.m3u8
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO HITS 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITS2021.m3u8
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO SIGNATURE 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNATURE2021.m3u8
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMAX 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX2021.m3u8
 
 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MY CINEMA
