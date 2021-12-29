@@ -1997,8 +1997,8 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 
 
-
-
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Aff suzuki
+http://w.nasvpn.xyz:8080/live/iptvlink/iptvlink/4129.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv1
 https://lnk.ec/SPOTV?shareext.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv1'
