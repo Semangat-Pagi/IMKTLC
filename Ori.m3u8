@@ -2065,13 +2065,16 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="WorldSports",  MNC Sports Plus
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport
+https://lnk.ec/astroSport1
 http://147.50.145.234:4567/aduvip
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 2
+https://lnk.ec/astroSport2
 http://147.50.145.234:4567/aduvip2
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 3
 https://lnk.ec/ASSP3?shareext.m3u8
 http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/59218
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 4
+https://lnk.ec/astroSport4
 http://13.76.192.14:19410/Gonj3r/l1ve/ASSP4_door_dyos/index.m3u8
 https://lnk.ec/ASSP4?shareext.m3u8
 http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/59217
