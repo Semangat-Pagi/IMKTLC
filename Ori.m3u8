@@ -1993,10 +1993,7 @@ http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein1 
-https://iptv.nullpress.xyz:8443/ican/12356/54421
-http://55.banrhfour.xyz.global.prod.fastly.net/live/61616550012/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein2 
 https://iptv.nullpress.xyz:8443/ican/12356/54422
 http://55.banrhfour.xyz.global.prod.fastly.net/live/6161949878/index.m3u8
