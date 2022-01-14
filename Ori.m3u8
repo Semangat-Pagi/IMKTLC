@@ -1972,7 +1972,8 @@ http://urtv.cc:80/penang063/penang063/6610
 http://urtv.cc:80/penang063/penang063/6611
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Bt sports 3
 https://iptv.nullpress.xyz:8443/ican/12356/86858
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Bein 1
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tes
+https://www.cloudflare-terms-of-service-abuse.com/stream.ts
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Bein 2
 https://liveanevia.mncnow.id:443/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
