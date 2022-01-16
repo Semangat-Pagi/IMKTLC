@@ -1991,7 +1991,8 @@ http://mantul.biz.id:8888/aruba/aruba/232
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
 http://103.226.232.199:8005/play/a061/index.m3u8
 http://mantul.biz.id:8888/aruba/aruba/253
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 3
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 3, 
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
 http://103.226.232.199:8005/play/a062/index.m3u8
 http://mantul.biz.id:8888/aruba/aruba/77
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 4
