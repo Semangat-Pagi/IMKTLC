@@ -275,32 +275,12 @@ http://184.173.181.2:1935/8072/8072/playlist.m3u8
 =============+==++++++++++++++++++++++++++++++Indonesia============+=====
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Indosiar 
 https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Rcti'
-http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Rcti''
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Inews'
-https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Inews''
-https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Inews'''
-https://cdn4.mbahnunungonline.net/m3u8/loc/3/2f760b7cf8286be.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Net
 https://liveanevia.mncnow.id:443/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Indosiar 
-https://liveanevia.mncnow.id:443/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Sctv
-https://liveanevia.mncnow.id:443/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Rcti
-https://liveanevia.mncnow.id:443/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Gtv
@@ -372,25 +352,7 @@ https://liveanevia.mncnow.id:443/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA HD", RCTI (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA HD", MNC TV (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA HD", ANTV HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA HD", SCTV HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA HD", INDOSIAR HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA HD", GTV (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="INDONESIA HD", TV ONE (vision+)
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA HD", INEWS (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA HD", METRO TV (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="INDONESIA HD", CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png" group-title="INDONESIA HD", CNBC Indonesia
