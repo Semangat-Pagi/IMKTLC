@@ -485,6 +485,11 @@ http://184.173.181.2:1935/8072/8072/playlist.m3u8
 
 
 =============+==++++++++++++++++++++++++++++++Indonesia============+=====
+
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Inews
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Rcti
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Indosiar 
 https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
