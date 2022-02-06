@@ -19,6 +19,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Bein 1
+https://liveanevia.mncnow.id:443/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Bein 2
 https://liveanevia.mncnow.id:443/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://liveanevia.mncnow.id:443/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
