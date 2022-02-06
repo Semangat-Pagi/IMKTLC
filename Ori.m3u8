@@ -1,7 +1,11 @@
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1
 #http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1
-http://176.119.29.35:80/rb0zYNF5GQ/FGWoCyPvwt/1170897?token=ShoOVBAJRF5AVlEEAQZXW1cCUgYHAlMMDAMAXlBSWwUFAVcGVlcFUgNEHhBLEBAGVQtuXlAVWAQIUlMAXwAUQURLA0c8CAJGWEQDAwpRW0EYREVeWVJADwhTVwpeAQ1bAAFKFxMIAkZYRAALCFFaQRhEVE9AUhBbWAk8XANBUQBUGlxbFg0KSEAJXG1cAQ8CWgITDRYGQBkbDBBIRA1WFl1UShcBCBIWAxJXEAJGU1cGUBMbFlQNQFcREUFEDRoqdRpKFwYZEgEMFVtdVkZYQUAVExsWXhFqSwAQTBRSWQ5USkQPQVFESEALU0pnBw0NWgNSQ11YDEYbX0ELRBsaDl5WD0EMEzkUCwIQCBpWWloCXxNK
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True Premier 1
 https://wopep.com:443/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True Premier 2
@@ -97,18 +101,22 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6708
 https://iptv.nullpress.xyz:8443/ican/12356/53222
 https://lnk.ec/astroSport1
 http://147.50.145.234:4567/aduvip
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 2
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6710
 https://iptv.nullpress.xyz:8443/ican/12356/53223
 https://lnk.ec/astroSport2
 http://147.50.145.234:4567/aduvip2
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 3
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 https://lnk.ec/ASSP3?shareext.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 4
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 https://lnk.ec/astroSport4
 http://13.76.192.14:19410/Gonj3r/l1ve/ASSP4_door_dyos/index.m3u8
 https://lnk.ec/ASSP4?shareext.m3u8
