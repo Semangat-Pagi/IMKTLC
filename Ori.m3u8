@@ -69,19 +69,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Unifi Sport2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 1
+http://tvn.x10.bz/xchannel/master-6.m3u8
 http://tvn.x10.bz/channel/master-6.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D0vFlVFHO8GCyPOGs-jn/ts
 http://103.226.232.199:8005/play/a060/index.m3u8
 http://mantul.biz.id:8888/aruba/aruba/232
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
 http://tvn.x10.bz/channel/master-7.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
 http://103.226.232.199:8005/play/a061/index.m3u8
 http://mantul.biz.id:8888/aruba/aruba/253
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
 http://tvn.x10.bz/channel/master-8.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
 http://103.226.232.199:8005/play/a062/index.m3u8
