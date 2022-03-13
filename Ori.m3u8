@@ -43,8 +43,8 @@ https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv
-https://liveanevia.mncnow.id/live/eds/SPOTV1-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Spotv 1
+https://liveanevia.mncnow.id/live/eds/SPOTV1-HD/sa_dash_vmx/SPOTV1-HD.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 https://on-load.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 https://lnk.ec/SPOTV?shareext.m3u8
