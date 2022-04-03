@@ -1,3 +1,7 @@
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes
+http://203.154.243.89:21201/nakhon
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes2
+http://4digital.ddns.net:11225/ts/0
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier 1
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier 2
@@ -28,6 +32,7 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",liverpool
+http://begaltvku.site/ventidos/master-3.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/liperpool.m3u8
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/Cv0ROPC9jxK6tFfTeUPTVZMjkR8miy-vKF-saoLmRI8esE-8Xd0qOcMYVJetycSmj172ZMZQ-xToBsDTVE-1Mg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports Xtra 🇺🇸
@@ -93,6 +98,7 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D
 http://103.226.232.199:8005/play/a060/index.m3u8
 http://mantul.biz.id:8888/aruba/aruba/232
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 2
+http://begaltvku.site/ventidos/master-7.m3u8
 http://tvn.x10.bz/xchannel/master-7.m3u8
 http://tvn.x10.bz/channel/master-7.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
@@ -100,6 +106,7 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gdqq
 http://103.226.232.199:8005/play/a061/index.m3u8
 http://mantul.biz.id:8888/aruba/aruba/253
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 3
+http://begaltvku.site/ventidos/master-8.m3u8
 http://tvn.x10.bz/xchannel/master-8.m3u8
 http://tvn.x10.bz/channel/master-8.m3u8
 http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
