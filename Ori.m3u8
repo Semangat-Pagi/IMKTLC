@@ -1,7 +1,19 @@
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes2
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 2
+http://203.154.243.89:21202/nakhon
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 3
+http://203.154.243.89:21203/nakhon
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
+http://203.154.243.89:21204/nakhon
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein 1 Asia
 http://4digital.ddns.net:11225/ts/0
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein 2 Asia
+http://4digital.ddns.net:11222/ts/0
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 1
+http://myott.tv/stream/MEITIIUJNS/130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 2
+http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier 1
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier 2
