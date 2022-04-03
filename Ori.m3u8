@@ -4,8 +4,14 @@ https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1 premium
 http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6131/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 2 premium
-
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes
+http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6125/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes1
+http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6126/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes2
+http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6127/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes3
+http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6128/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1
 http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6123/index.m3u8
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
