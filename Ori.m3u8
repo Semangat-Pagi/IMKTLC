@@ -4,14 +4,9 @@ https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1 premium
 http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6131/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Ptv sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6125/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes1
-http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6126/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes2
-http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6127/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",tes3
-http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6128/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1
 http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6123/index.m3u8
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -29,10 +24,6 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 4
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Premier 1
-https://wopep.com:443/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True Premier 2
-https://wopep.com:443/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",liverpool
 http://tvnasional.mobie.in/PREMIER_VIDIO/liperpool.m3u8
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/Cv0ROPC9jxK6tFfTeUPTVZMjkR8miy-vKF-saoLmRI8esE-8Xd0qOcMYVJetycSmj172ZMZQ-xToBsDTVE-1Mg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
