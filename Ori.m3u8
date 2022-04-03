@@ -6,6 +6,10 @@ http://203.154.243.89:21202/nakhon
 http://203.154.243.89:21203/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
 http://203.154.243.89:21204/nakhon
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Star Sport
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Mentari tv
+http://begaltvku.site/ventidos/master-21.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein 1 Asia
 http://4digital.ddns.net:11225/ts/0
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein 2 Asia
