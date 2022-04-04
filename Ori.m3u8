@@ -22,27 +22,31 @@ http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=yst
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier 2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1 premium
-http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6131/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 1
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 3
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Ptv sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Star Sport select 1
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",SuperSport
+http://15.235.142.241:8080/hometv/premium/2
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Star Sport select 2
-http://103.55.144.46/hls/select2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersport liga
+http://init.cheches.info/hls/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Supersport liga"
+http://194.67.196.19/hls/103.m3u8?mvk
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6123/index.m3u8
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 #http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 2
-https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
 http://50.anfalrou.xyz/live/6161655/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 3
-http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6124/index.m3u8
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 http://50.anfalrou.xyz/live/616194987/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
