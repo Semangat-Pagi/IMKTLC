@@ -43,15 +43,18 @@ http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6123/index.m3u8
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 #http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 2
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ssc1
+http://localchannels.zinamedia.net/ar-s/SSC1/tracks-v1a1/mono.m3u8
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
 http://50.anfalrou.xyz/live/6161655/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 3
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ssc2
+http://localchannels.zinamedia.net/ar-s/SSC2/tracks-v1a1/mono.m3u8
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 http://50.anfalrou.xyz/live/616194987/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 4
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ssc3
+http://localchannels.zinamedia.net/ar-s/SSC1/tracks-v1a1/mono.m3u8
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",liverpool
