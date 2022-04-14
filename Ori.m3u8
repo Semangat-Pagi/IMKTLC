@@ -20,7 +20,8 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Liverpool
 http://begaltvku.site/ventidos/master-3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier 
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",True premier t
+P2p://ns2.hellotvvod.com:9906/9de3de3d59c04cd7b57a919611cf9487.ts
 https://list.iptvcat.com/my_list/s/011092824494fa798f53b38f3f4a6f0f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",sky premiere
 https://list.iptvcat.com/my_list/s/c71d775b717e9eb1c12346bf71979d83.m3u8
