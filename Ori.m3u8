@@ -172,27 +172,15 @@ http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/59217
 https://lnk.ec/astroSport5
 https://lnk.ec/ASSP5?shareext.m3u8
 http://mantul.biz.id:8888/aruba/aruba/6274
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",Fox Sports 1
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",tes
+https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 http://45.179.140.242:8000/play/a0jo
 #EXTINF:0 tvg-id="FoxSports2.mx" group-title="WorldSports",Fox Sports 2
 http://45.179.140.242:8000/play/a0k3
 #EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",FOX Sports 3
 http://45.179.140.242:8000/play/a0ik
 
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 1
-https://95-213-224-179.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 2
-https://95-213-224-179.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 3
-https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 4
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 5
-https://95-213-224-179.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 6
-https://95-213-224-179.livesports24.online/migra.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FOOTBALL",RUSIA 7
-https://95-213-224-179.livesports24.online/matchplanetarus.m3u8 
+ 
 
 
 
