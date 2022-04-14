@@ -1,3 +1,5 @@
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Strongman Champions League
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 1
 http://203.154.243.89:21201/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 2
