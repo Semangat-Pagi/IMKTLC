@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="HD Channel",tes
-rtmp://219.80.97.35/sat/tv731
+#EXTINF:0 tvg-id="ext" group-title="HD Channel",cinema
+rtp://239.1.1.109:8628
 #EXTINF:0 tvg-id="ext" group-title="HD Channel",900 Ruang Trampil HD
 rtp://@239.1.1.111:8640
 #EXTINF:0 tvg-id="ext" group-title="HD Channel",905 Usee Sports HD
