@@ -149,37 +149,15 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 1
-http://linears-playback.astro.com.my/vsg/41i4KxCsxtb7T4S7lA0D3vNKCsrVS1fSpyfKDXf5EdBNg=a-t1/dash-wv/jitp-linearwm/601/default_ott.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 2
-http://linears-playback.astro.com.my/vsg/414gE4Gt5Fujs2UtykMhD_GpBIrSfcDbT3bqJeVQaDjOs=Si8L/dash-wv/jitp-linearwm/2104/default_ott.mpd
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 3
-http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59218.m3u8
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
-https://lnk.ec/ASSP3?shareext.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 4
-http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
-https://lnk.ec/astroSport4
-http://13.76.192.14:19410/Gonj3r/l1ve/ASSP4_door_dyos/index.m3u8
-https://lnk.ec/ASSP4?shareext.m3u8
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/59217
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Astro Supersport 5
-https://lnk.ec/astroSport5
-https://lnk.ec/ASSP5?shareext.m3u8
-http://mantul.biz.id:8888/aruba/aruba/6274
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",tes
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",ESPN VIVO
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 http://45.179.140.242:8000/play/a0jo
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="WorldSports",Fox Sports 2
-http://45.179.140.242:8000/play/a0k3
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",FOX Sports 3
-http://45.179.140.242:8000/play/a0ik
-
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="WorldSports",ESPN 2
+https://edge1-hr.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 3
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 4
+https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
  
 
 
