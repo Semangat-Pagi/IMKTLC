@@ -1,8 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",kx
-http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",kxxxxxx
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Pptv
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Strongman Champions League
