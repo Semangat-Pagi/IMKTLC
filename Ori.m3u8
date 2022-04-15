@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tes
+http://tvn.x10.bz/TvN_ID/master-6.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tes2
+http://tvn.x10.bz/TvN_ID/master-7.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ASSP1
