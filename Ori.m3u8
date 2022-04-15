@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tes
-http://tvn.x10.bz/TvN_ID/master-6.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Ru Sport Rusia
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -66,8 +66,24 @@ https://uload.ru.com/cdn/premium36/chunks.m3u8|Referer=https://player.licenses4.
 https://uload.ru.com/cdn/premium35/chunks.m3u8|Referer=https://player.licenses4.me/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sony ten 1
+https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld1.m3u8?tekon=xxxx13xxxx&a=Ten_HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sony ten 2
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld1.m3u8?tekon=xxxx13xxxx&a=Ten_2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sony ten 3
+https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld1.m3u8?tekon=xxxx13xxxx&a=Ten_3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sony ten 4
+https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld1.m3u8?tekon=xxxx13xxxx&a=Ten_4_HD_Tamil
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sony six
+https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=xxxx13xxxx
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Supersport Football
@@ -88,6 +104,8 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Pptv
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Fox Sport Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Strongman Champions League
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 1
