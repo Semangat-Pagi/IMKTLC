@@ -26,7 +26,8 @@ http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=yst
 http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 1
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 2
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 22
+http://45.148.147.239/auth/159126.m3u8?token=fm_DcElkjuUw9pDJ-IYgJS6G19wUfrz5V_I3eMiSg-1NUJ4vtGiQTG0U2T9gj8GCjwhXtM4A3WZ6kxErXZOdGgUAOQdG_yJGQH_BnOvGOUIQNugMK8bSD__nzvHuY4Xom_EL83sROpMpVdwnot9BXUHkUw-fkgwrU2qndgg-lDNPgpnAZHuIg4n2CUm8dUVtkOVdMQR0evHak2cbCext28KxgqHXjhSrUbbXHzkmY8YSCYsBbP5E5g9VVE7z1sJryhucdCM5kt5HzMUN20p6d08K4M-AkQXj7tl3l6qqWeOb88ye3yjfgzB1_mLhQGKpx0CTxBN7nkBfptTd3Pgu8bd_tHWPtiOqtG-vlxlJtlAr1LWKaFquKogOGsTgfxZsEc1oGskLjogdMnTLLEvZHgOalRkSufb5jEXnWdNohg5jwqq_yCqbs6qzlb18d84ewcMLjk4g7ERMJ0U9zebDxpd_6Yup-FuUqkVNMLbyhOTv8TTNo_vMSJJ1OLCizGCSelxxoRqZBKg4-IeloybW7jmPu6JoLOCiVuMxi8CdZXrw5BS0Ga-8u5-evRXndIvC65tnTZ9OgLOPktKGDJ8mLTdlbGd1Z3w6SuiouxvdNUuyRTPHfskxDI7z0cNSz8N76OitIOJsKRf7jAk5LebMZA
 http://50.7.218.42:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 3
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
