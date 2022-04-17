@@ -9,6 +9,10 @@ http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&
 http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="WorldSports",SPORTS TV 6
 http://213.13.23.132/shls/LIVE%24SPORTTV6.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="WorldSports", EUROSPORT 1
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+#EXTINF:-1 group-title="WorldSports", ORF SPORT +
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
