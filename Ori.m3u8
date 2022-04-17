@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tes
-P2p://ns2.hellotvvod.com:9906/f0a0fbcf51204409b7acd77c553e4ad1.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Ru Sport Rusia
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tess
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94097.ts
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
