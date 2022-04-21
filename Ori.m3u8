@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tess
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",RMC 1
 http://185.184.192.166/RMC1/mpegts
-#EXTINF:-1 group-title="WorldSports",SPORTS TV 1
-http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 group-title="WorldSports",SPORTS TV 2
-http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 group-title="WorldSports",SPORTS TV 3
-http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 group-title="WorldSports",SPORTS TV 6
-http://213.13.23.132/shls/LIVE%24SPORTTV6.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",RMC 2
+http://185.184.192.166/RMC2/mpegts
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ZQ Sport
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ZQ Football Channel
+https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv turkey
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="WorldSports", EUROSPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1 group-title="WorldSports", ORF SPORT +
