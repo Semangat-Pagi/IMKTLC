@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",tess
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94097.ts
+http://185.184.192.166/RMC1/mpegts
 #EXTINF:-1 group-title="WorldSports",SPORTS TV 1
 http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="WorldSports",SPORTS TV 2
