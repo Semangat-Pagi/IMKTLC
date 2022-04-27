@@ -6,7 +6,7 @@ https://uload.ru.com/cdn/premium74/chunks.m3u8|Referer=https://player.licenses4.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="" tvg-logo="https://i.imgur.com/iq5MRT8.png" group-title="⚽ SPORTS",Sport tv 4
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="" tvg-logo="https://i.imgur.com/iq5MRT8.png" group-title="WorldSports",Sport tv 4
 https://uload.ru.com/cdn/premium77/chunks.m3u8|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
