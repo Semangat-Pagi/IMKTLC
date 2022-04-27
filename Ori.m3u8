@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",tes
-https://etslive-2-vidio-com.akamaized.net/exp=1651094975~acl=/hls-p/ingest_6686_*/*~hmac=1476adfcf25de5eb46583e277fca8520db8863a24a811aec8559b4b601905cf8/hls-p/ingest_6686_480p/index.m3u8
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",tes
-https://raw.githubusercontent.com/u-din/IPTV/bb26aa1451219d19826e0a1d364e8d1b81a49618/champions1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",testing
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd%7CUser-Agent=stream63a24a811aec8559b4b601905cf8/hls-p/ingest_6686_480p/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",Sport tv 2
