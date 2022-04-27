@@ -1,9 +1,7 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",testing
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd%7CUser-Agent=stream63a24a811aec8559b4b601905cf8/hls-p/ingest_6686_480p/index.m3u8
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjnfDToGXpfWq34fgyUPtdg/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -81,9 +79,15 @@ https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv turkey
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports", EUROSPORT 1
+https://uload.ru.com/cdn/premium41/chunks.m3u8%7CReferer=https://player.licenses4.me/
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF:-1 group-title="WorldSports", ORF SPORT +
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports", EUROSPORT 2
+https://uload.ru.com/cdn/premium42/chunks.m3u8%7CReferer=https://player.licenses4.me/
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
