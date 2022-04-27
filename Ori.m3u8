@@ -1,4 +1,9 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="WorldSports",Sportv 3
+https://uload.ru.com/cdn/premium83/chunks.m3u8|Referer=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv 1
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv 2
