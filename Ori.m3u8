@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="811" group-title="WorldSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://uload.ru.com/cdn/premium123/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png",1 Bein 1 True vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|https://www.movie87hd.com
+
 
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",Champions tv 1
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjnfDToGXpfWq34fgyUPtdg/ts
