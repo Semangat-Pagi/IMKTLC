@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 1
+https://sportzonline.to/channels/pt/sporttv1.php
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 2
+https://sportzonline.to/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 3
+https://sportzonline.to/channels/pt/sporttphp
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 4
+https://sportzonline.to/channels/pt/sporttv4.php
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 5
+https://sportzonline.to/channels/pt/sporttv5.php
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 1
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111599&extension=ts&play_token=2N1iwakPEB
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 2
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111604&extension=ts&play_token=mksS3NVUlT
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 3
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111608&extension=ts&play_token=BjyhNazrsa
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", tes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
