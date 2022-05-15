@@ -8,18 +8,19 @@ https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",Sport
+http://20.255.51.57:8000/live/supersport2
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 https://uload.ru.com/cdn/premium49/chunks.m3u8%7CReferer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",Sport tv 2
-https://uload.ru.com/cdn/premium74/chunks.m3u8|Referer=https://player.licenses4.me
+http://20.255.51.57:8000/live/supersport3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 1
-https://uload.ru.com/cdn/premium119/chunks.m3u8|Referer=https://player.licenses4.me
+http://20.255.51.57:8000/live/supersport4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
