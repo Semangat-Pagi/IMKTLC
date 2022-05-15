@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="vtv1hd"group-title="WorldSports" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",tes
-#EXTVLCOPT:http-user-agent="KIIP"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", tes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -28,8 +29,8 @@ http://20.255.51.57:8000/live/supersport4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 2
-https://uload.ru.com/cdn/premium120/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
