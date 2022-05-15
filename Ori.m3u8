@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="vtv1hd"group-title="WorldSports" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+#EXTINF:0 tvg-id="vtv1hd"group-title="WorldSports" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",tes
 #EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", tes
