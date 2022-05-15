@@ -1,8 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", tes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", tes
@@ -32,6 +28,29 @@ http://20.255.51.57:8000/live/supersport4
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https
 
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",ESPN VIVO
+https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+http://45.179.140.242:8000/play/a0jo
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="WorldSports",ESPN 2
+https://edge1-hr.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 3
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 4
+https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 1
+http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 2
+http://217.74.16.155:8082/local//ar-s/SSC2/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 3
+http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 4
+http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 5
+http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 6
+http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 7
+http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ZQ Sport
 https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
@@ -75,19 +94,7 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 1
 http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 1
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 2
-http://45.148.147.239/auth/159126.m3u8?token=fm_DcElkjuUw9pDJ-IYgJS6G19wUfrz5V_I3eMiSg-1NUJ4vtGiQTG0U2T9gj8GCjwhXtM4A3WZ6kxErXZOdGgUAOQdG_yJGQH_BnOvGOUIQNugMK8bSD__nzvHuY4Xom_EL83sROpMpVdwnot9BXUHkUw-fkgwrU2qndgg-lDNPgpnAZHuIg4n2CUm8dUVtkOVdMQR0evHak2cbCext28KxgqHXjhSrUbbXHzkmY8YSCYsBbP5E5g9VVE7z1sJryhucdCM5kt5HzMUN20p6d08K4M-AkQXj7tl3l6qqWeOb88ye3yjfgzB1_mLhQGKpx0CTxBN7nkBfptTd3Pgu8bd_tHWPtiOqtG-vlxlJtlAr1LWKaFquKogOGsTgfxZsEc1oGskLjogdMnTLLEvZHgOalRkSufb5jEXnWdNohg5jwqq_yCqbs6qzlb18d84ewcMLjk4g7ERMJ0U9zebDxpd_6Yup-FuUqkVNMLbyhOTv8TTNo_vMSJJ1OLCizGCSelxxoRqZBKg4-IeloybW7jmPu6JoLOCiVuMxi8CdZXrw5BS0Ga-8u5-evRXndIvC65tnTZ9OgLOPktKGDJ8mLTdlbGd1Z3w6SuiouxvdNUuyRTPHfskxDI7z0cNSz8N76OitIOJsKRf7jAk5LebMZA
-http://50.7.218.42:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 3
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Ptv sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
@@ -143,35 +150,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Unifi Sport2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 1
-http://lengo-sentir.xyz/Live/Champion.m3u8
-http://begaltvku.site/ventidos/master-6.m3u8
-http://tvn.x10.bz/xchannel/master-6.m3u8
-http://tvn.x10.bz/channel/master-6.m3u8
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D0vFlVFHO8GCyPOGs-jn/ts
-http://103.226.232.199:8005/play/a060/index.m3u8
-http://mantul.biz.id:8888/aruba/aruba/232
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 2
-http://lengo-sentir.xyz/Live/Champion2.m3u8
-http://begaltvku.site/ventidos/master-7.m3u8
-http://tvn.x10.bz/xchannel/master-7.m3u8
-http://tvn.x10.bz/channel/master-7.m3u8
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
-http://103.226.232.199:8005/play/a061/index.m3u8
-http://mantul.biz.id:8888/aruba/aruba/253
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 3
-http://lengo-sentir.xyz/Live/Champion3.m3u8
-http://begaltvku.site/ventidos/master-8.m3u8
-http://tvn.x10.bz/xchannel/master-8.m3u8
-http://tvn.x10.bz/channel/master-8.m3u8
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
-http://103.226.232.199:8005/play/a062/index.m3u8
-http://mantul.biz.id:8888/aruba/aruba/77
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Champions TV 4
-http://lengo-sentir.xyz/Live/Champion4.m3u8
-http://mantul.biz.id:8888/aruba/aruba/13922
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",MNC Sports
@@ -187,29 +166,7 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",ESPN VIVO
-https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-http://45.179.140.242:8000/play/a0jo
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="WorldSports",ESPN 2
-https://edge1-hr.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 3
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 4
-https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 1
-http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 2
-http://217.74.16.155:8082/local//ar-s/SSC2/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 3
-http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 4
-http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 5
-http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 6
-http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",SSC 7
-http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
+
 =======================================================================SportsUnggulan====================================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", ru sport tv 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
