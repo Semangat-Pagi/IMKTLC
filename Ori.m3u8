@@ -14,6 +14,23 @@ https://sportzonline.to/channels/pt/sporttv4.php
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 5
 https://sportzonline.to/channels/pt/sporttv5.php
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="WorldSports",Bein Sports 2 Fr
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=14414&extension=ts&play_token=1JygO80MqK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="WorldSports",Bein Sports 3 Fr
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=27736&extension=ts&play_token=xLqEXrd5Tl
+#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 1
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69004&extension=ts&play_token=eXJEviC4Br
+#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 2
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69007&extension=ts&play_token=8zRaocsToR
+#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 3
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69010&extension=ts&play_token=7K3PgM2WxX
+#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 4
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69011&extension=ts&play_token=J6dHoHOos1
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="WorldSports,Supersport Premier League
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=39408&extension=ts&play_token=0RD5irfMjR
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="WorldSports",SuperSport Premier Leangue
+https://pepperlive.info/sport.php?id=10
+
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 1
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111599&extension=ts&play_token=2N1iwakPEB
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 2
