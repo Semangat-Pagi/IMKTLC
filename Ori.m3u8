@@ -1,7 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 
 https://sportzonline.to/channels/pt/sporttv1.php
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 2
 https://sportzonline.to/channels/pt/sporttv2.php
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sport TV 3
