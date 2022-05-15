@@ -20,13 +20,14 @@ http://20.255.51.57:8000/live/supersport3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=27735&extension=ts&play_token=yBbCC4BX8J
 http://20.255.51.57:8000/live/supersport4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/zQ2qZwm/download-1.png",RMC Sport 2
+http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=27734&extension=ts&play_token=9MGB2aBnFg
 
 #EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",ESPN VIVO
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
