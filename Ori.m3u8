@@ -47,92 +47,15 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports", EUROSPORT 2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Матч! HD
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Матч
-https://uload.ru.com/cdn/premium138/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ASSP1
-https://uload.ru.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ASSP2
-https://uload.ru.com/cdn/premium124/chunks.m3u8|Referer=https://player.licenses4.me/
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ASSP3
-https://uload.ru.com/cdn/premium125/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ASSP4
-https://uload.ru.com/cdn/premium126/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ASSP5
-https://uload.ru.com/cdn/premium43/chunks.m3u8|Referer=https://player.licenses4.me/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BSP 1
 http://gplus.live:8080/168573780756/N9UFR0P64W/58871
-https://uload.ru.com/cdn/premium98/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BSP 2
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/49386
-https://uload.ru.com/cdn/premium99/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BSP 3
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/49686
-https://uload.ru.com/cdn/premium100/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BT Sport 1
-https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BT Sport 2
-https://uload.ru.com/cdn/premium32/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BT Sport 3
-https://uload.ru.com/cdn/premium33/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BT Sport Espn
-https://uload.ru.com/cdn/premium34/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sky Sports Football
-https://uload.ru.com/cdn/premium36/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sky Sports 
-https://uload.ru.com/cdn/premium35/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Supersport Football
-https://uload.ru.com/cdn/premium368/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Supersport Laliga
-https://uload.ru.com/cdn/premium412/chunks.m3u8|Referer=https://player.licenses4.me/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Supersport Premier League
-https://uload.ru.com/cdn/premium413/chunks.m3u8|Referer=https://player.licenses4.me/
+
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Barca tv
 http://93.152.174.144:4000/play/barcatv/index.m3u8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",BSP Thai 1
-https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Pptv
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Fox Sport Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Strongman Champions League
@@ -145,10 +68,7 @@ http://203.154.243.89:21202/nakhon
 http://203.154.243.89:21203/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
 http://203.154.243.89:21204/nakhon
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein 1 Asia
-http://4digital.ddns.net:11225/ts/0
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",Bein 2 Asia
-http://4digital.ddns.net:11222/ts/0
+
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 1
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 2
@@ -158,28 +78,19 @@ http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 1
-https://uload.ru.com/cdn/premium71/chunks.m3u8%7CReferer=https://player.licenses4.me/
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 2
-https://uload.ru.com/cdn/premium72/chunks.m3u8%7CReferer=https://player.licenses4.me/
 http://45.148.147.239/auth/159126.m3u8?token=fm_DcElkjuUw9pDJ-IYgJS6G19wUfrz5V_I3eMiSg-1NUJ4vtGiQTG0U2T9gj8GCjwhXtM4A3WZ6kxErXZOdGgUAOQdG_yJGQH_BnOvGOUIQNugMK8bSD__nzvHuY4Xom_EL83sROpMpVdwnot9BXUHkUw-fkgwrU2qndgg-lDNPgpnAZHuIg4n2CUm8dUVtkOVdMQR0evHak2cbCext28KxgqHXjhSrUbbXHzkmY8YSCYsBbP5E5g9VVE7z1sJryhucdCM5kt5HzMUN20p6d08K4M-AkQXj7tl3l6qqWeOb88ye3yjfgzB1_mLhQGKpx0CTxBN7nkBfptTd3Pgu8bd_tHWPtiOqtG-vlxlJtlAr1LWKaFquKogOGsTgfxZsEc1oGskLjogdMnTLLEvZHgOalRkSufb5jEXnWdNohg5jwqq_yCqbs6qzlb18d84ewcMLjk4g7ERMJ0U9zebDxpd_6Yup-FuUqkVNMLbyhOTv8TTNo_vMSJJ1OLCizGCSelxxoRqZBKg4-IeloybW7jmPu6JoLOCiVuMxi8CdZXrw5BS0Ga-8u5-evRXndIvC65tnTZ9OgLOPktKGDJ8mLTdlbGd1Z3w6SuiouxvdNUuyRTPHfskxDI7z0cNSz8N76OitIOJsKRf7jAk5LebMZA
 http://50.7.218.42:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Eleven Sport 3
-https://uload.ru.com/cdn/premium428/chunks.m3u8%7CReferer=https://player.licenses4.me
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Ptv sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",bein 1
-http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6123/index.m3u8
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports Xtra 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
