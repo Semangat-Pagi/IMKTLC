@@ -22,7 +22,7 @@ http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111604&extension=t
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111608&extension=ts&play_token=BjyhNazrsa
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", tes
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", Rcti sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 
