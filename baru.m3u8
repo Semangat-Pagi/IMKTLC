@@ -1,9 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=ts&play_token=yJwSdiHYqj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115616&extension=ts&play_token=N0SVQLDaOS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 3
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115617&extension=ts&play_token=n94ALny1KH
