@@ -1,22 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",BeinS 1
+#EXTINF:-1  group-title="WorldSports",BeinS 1
 http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=ts&play_token=yJwSdiHYqj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",BeinS 2 
+#EXTINF:-1  group-title="WorldSports",BeinS 2 
 http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115616&extension=ts&play_token=N0SVQLDaOS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Bts 1
+#EXTINF:-1  group-title="WorldSports",BeinS 3
+http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="WorldSports",Bts 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115617&extension=ts&play_token=n94ALny1KH
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Bts 2
+#EXTINF:-1  group-title="WorldSports",Bts 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="WorldSports",Bein Sports 2 Fr
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=14414&extension=ts&play_token=1JygO80MqK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="WorldSports",Bein Sports 3 Fr
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=27736&extension=ts&play_token=xLqEXrd5Tl
+#EXTINF:-1  group-title="WorldSports",Bsp 1
+http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 1
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69004&extension=ts&play_token=eXJEviC4Br
 #EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 2
