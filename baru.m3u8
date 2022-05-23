@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 
-http://golive.yn.lt/stream/useesport/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",BeinS 1
+http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=ts&play_token=yJwSdiHYqj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 
-http://golive.yn.lt/stream/useesport/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",BeinS 2 
+http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115616&extension=ts&play_token=N0SVQLDaOS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Bts 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115617&extension=ts&play_token=n94ALny1KH
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Astro Supersports 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="WorldSports",Bts 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="WorldSports",Bein Sports 2 Fr
