@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="WorldSports" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Ast
+#EXTINF:-1  group-title="WorldSports",tes
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="WorldSports" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Star 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 http://182.50.65.213:8888/udp/239.239.0.6:3001
 https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD AstGO
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Star 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 http://182.50.65.213:8888/udp/239.239.0.5:3001
-#EXTINF:-1  group-title="WorldSports",ten
+#EXTINF:-1  group-title="WorldSports",ten 2
 http://182.50.65.213:8888/udp/239.239.0.33:3001
+#EXTINF:-1  group-title="WorldSports",ten 2
+http://182.50.65.213:8888/udp/239.239.0.34:3001
+#EXTINF:-1  group-title="WorldSports",ten 3
+http://182.50.65.213:8888/udp/239.239.0.35:3001
 #EXTINF:-1  group-title="WorldSports",Overtring Sport
 http://95.107.132.106/out/u/683_7.m3u8
 #EXTINF:-1  group-title="WorldSports",BeinS 1
