@@ -1,6 +1,8 @@
 #EXTM3U
-
-
+#EXTINF:-1  group-title="WorldSports",Overtring Sport
+http://95.107.132.106/out/u/683_7.m3u8
+#EXTINF:-1  group-title="WorldSports",tes
+http://130.0.24.6:2831/udp/239.101.43.65:2345?
 #EXTINF:-1  group-title="WorldSports",BeinS 1
 http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=ts&play_token=yJwSdiHYqj
@@ -19,6 +21,16 @@ http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="WorldSports",Bsp 3
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="WorldSports",Bsp 1"
+http://www.olacast.live/cdn/premium98/chunks.m3u8|Referer=https://player.licenses4.me/
+#EXTINF:-1  group-title="WorldSports",Bsp 2"
+http://www.olacast.live/cdn/premium99/chunks.m3u8|Referer=https://player.licenses4.me/
+#EXTINF:-1  group-title="WorldSports",Bsp 3"
+http://www.olacast.live/cdn/premium100/chunks.m3u8|Referer=https://player.licenses4.me/
+#EXTINF:-1  group-title="WorldSports",МАТЧ! ФУТБOЛ 1HD
+http://www.olacast.live/cdn/premium136/chunks.m3u8|Referer=https://player.licenses4.me/
+#EXTINF:-1  group-title="WorldSports",МАТЧ! ФУТБOЛ 2Hd
+http://www.olacast.live/cdn/premium137/chunks.m3u8|Referer=https://player.licenses4.me/
 #EXTINF:-1  group-title="WorldSports",Premiere league
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
 #EXTINF:-1  group-title="WorldSports",Laliga
