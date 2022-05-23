@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 group-title="WorldSports",Eleven 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 group-title="WorldSports",Eleven 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="WorldSports",Eleven 3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="WorldSports",Eleven 4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="WorldSports",Eleven 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 group-title="WorldSports",Eleven 6
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+#EXTINF:-1 group-title="WorldSports",Fox Sport
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 group-title="WorldSports",Fox Sport2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 group-title="WorldSports",fox Sport3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1 group-title="SPORTS",Euro Sport1
 #EXTINF:-1  group-title="WorldSports",tes
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="WorldSports" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Star 1
