@@ -15,25 +15,16 @@ http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115617&extension=t
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1  group-title="WorldSports",Bsp 1
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 1
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69004&extension=ts&play_token=eXJEviC4Br
-#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 2
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69007&extension=ts&play_token=8zRaocsToR
-#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 3
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69010&extension=ts&play_token=7K3PgM2WxX
-#EXTINF:-1 tvg-logo="https://fast-cancel-subscription.com/wp-content/uploads/2020/07/eleven-sports-logo-512x471.png" group-title="WorldSports",Eleven Sports 4
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=69011&extension=ts&play_token=J6dHoHOos1
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="WorldSports,Supersport Premier League
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=39408&extension=ts&play_token=0RD5irfMjR
-
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 1
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111599&extension=ts&play_token=2N1iwakPEB
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 2
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111604&extension=ts&play_token=mksS3NVUlT
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="WorldSports",Bein Sports Premium 3
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111608&extension=ts&play_token=BjyhNazrsa
-
+#EXTINF:-1  group-title="WorldSports",Bsp 2
+http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="WorldSports",Bsp 3
+http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="WorldSports",Premiere league
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
+#EXTINF:-1  group-title="WorldSports",Laliga
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63682.m3u8
+#EXTINF:-1  group-title="WorldSports",Football Serie A
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63692.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", Rcti sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
