@@ -737,6 +737,12 @@ https://liveanevia.mncnow.id:443/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Mnctv 
 https://liveanevia.mncnow.id:443/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Mnctv 2
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Indosiar Liga 1
+http://203.77.246.50:5000/udp/239.1.1.110:5000
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Gtv
+http://203.77.246.50:5000/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Trans7 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",TransTv 
