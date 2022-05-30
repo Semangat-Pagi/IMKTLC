@@ -1,8 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="818" ch-number="818" group-title="WorldSports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
@@ -12,6 +21,16 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" group-title="WorldSports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" group-title="WorldSports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 3 HD
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+#EXTINF:-1 group-title="WorldSports",Fox Sport
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 group-title="WorldSports",Fox Sport2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 group-title="WorldSports",fox Sport3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 group-title="WorldSports",Eleven 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -25,13 +44,8 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 group-title="WorldSports",Eleven 6
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
-#EXTINF:-1 group-title="WorldSports",Fox Sport
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 group-title="WorldSports",Fox Sport2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 group-title="WorldSports",fox Sport3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1  group-title="WorldSports",tes
+
+#EXTINF:-1  group-title="WorldSports",vtv6
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="WorldSports" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Star 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,8 +62,6 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1  group-title="WorldSports",ten 3
 http://182.50.65.213:8888/udp/239.239.0.35:3001
-#EXTINF:-1  group-title="WorldSports",Overtring Sport
-http://95.107.132.106/out/u/683_7.m3u8
 #EXTINF:-1  group-title="WorldSports",BeinS 1
 http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=ts&play_token=yJwSdiHYqj
@@ -57,11 +69,6 @@ http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=t
 http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="WorldSports",BeinS 3
 http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="WorldSports",Bts 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115617&extension=ts&play_token=n94ALny1KH
-#EXTINF:-1  group-title="WorldSports",Bts 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1  group-title="WorldSports",Bsp 1
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="WorldSports",Bsp 2
