@@ -1,8 +1,17 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="astrosupersport5.my" group-title="WorldSports" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",ASTRO SUPERSPORT 5 
+#EXTINF:-1 tvg-id="818" ch-number="818" group-title="WorldSports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" group-title="WorldSports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" group-title="WorldSports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 #EXTINF:-1 group-title="WorldSports",Eleven 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
