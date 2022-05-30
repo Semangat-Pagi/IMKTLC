@@ -1,10 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="WorldSports",premiere 3
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461450
 #EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",Sporttv+
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1 group-title="WorldSports",In Sport Rusia
 https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
-
+#EXTINF:-1 group-title="WorldSports",Sport Prem
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",tess
