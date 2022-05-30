@@ -1,26 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",tesss
-https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php
-
-#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
-https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
-https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
-https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-
-#EXTINF:-1 group-title="True Visions" tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%201.png",SPOTV1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/sport/spotv1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1 group-title="True Visions" tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%202.png",SPOTV2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1  tvg-id="N/A" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/FVze150029.png",SPORT TV 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv1/sport-inter/sporttv1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://ballmun.com/
-#EXTINF:-1  tvg-id="N/A" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/i0jS150030.png",SPORT TV 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://ballmun.com/
+#EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",premier
+http://5.182.229.90:8080/6555/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
