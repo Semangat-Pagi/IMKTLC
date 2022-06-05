@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="712" ch-number="712" group-title="WorldSports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",skynet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8300c66236b3057410cde9cf0970910&key=f3787e40b34f18ab2dccd809e78ceec1
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",wwezzzzzzzzzz
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 #EXTINF:-1 tvg-id="N/A" group-title="WorldSports" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",Sporttv+
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1 group-title="WorldSports",In Sport Rusia
@@ -49,16 +40,8 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1  group-title="WorldSports",vtv6
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="WorldSports" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Star 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-http://182.50.65.213:8888/udp/239.239.0.6:3001
-https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="WorldSports" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Star 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-http://182.50.65.213:8888/udp/239.239.0.5:3001
-#EXTINF:-1  group-title="WorldSports",ten 2
+
+#EXTINF:-1  group-title="WorldSports",ten 1
 http://182.50.65.213:8888/udp/239.239.0.33:3001
 #EXTINF:-1  group-title="WorldSports",ten 2
 http://182.50.65.213:8888/udp/239.239.0.34:3001
@@ -297,13 +280,16 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Strongman Champions League
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 1
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 
+http://ccdn.pw:80/WY1NB/Felialagoas10/72329.ts
 http://203.154.243.89:21201/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 2
 http://203.154.243.89:21202/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 3
+http://ccdn.pw:80/WY1NB/Felialagoas10/72325.ts
 http://203.154.243.89:21203/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
+http://189.91.128.146:4444/udp/227.10.20.116:1234
 http://203.154.243.89:21204/nakhon
 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 1
