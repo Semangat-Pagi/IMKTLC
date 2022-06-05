@@ -85,10 +85,14 @@ http://www.olacast.live/cdn/premium72/chunks.m3u8|Referer=https://player.license
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/di11stm.png",[$]ELEVEN SPORTS 3HD
 http://www.olacast.live/cdn/premium428/chunks.m3u8|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT-TV 1HD
-http://mu032.wanicelife.com:8880/SWFAF142528/E964RFED/3192?token=TBRRBxJfEA9BDAEIBQQEBw0BUANTCFJVVQEOVQcBVFMAUgxQAARRAwIaHBtCRUIEWV5tC1QTC1EAXAoYFkVEBEVpUAJDDRACVw8FDRMdEhVRXldACgAHVwVRDQENBAVNFUZQAkMNEAZVCBIVE1RIFV1BXANcblUHRwxbURYKWRRbWhVEDlltUQZVUVdVEwpDCREeQFlCQUALC01YWBwVA15CSwcVUhAPQQwHDgYTHENbXEcMRENIQAtHcXAWHBUET0JcCBJeXVtBAhJNQhMcQ1FAbRBVQkUQVARVUUYSDUMHFBVEDFZKagBXXldUUkQIV11BQAoTA0AdR1VbWllDDkVpSQ8FFQgXUAwDG0w
+http://mvu03.wanicelife.com:8880/SWFAF142528/E964RFED/3190
 http://www.olacast.live/cdn/premium49/chunks.m3u8|Referer=https://player.licenses4.me/ 
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT-TV 2HD
 http://mvu03.wanicelife.com:8880/SWFAF142528/E964RFED/3191
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT-TV 3
+http://mvu03.wanicelife.com:8880/SWFAF142528/E964RFED/3192
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT-TV 4
+http://mvu03.wanicelife.com:8880/SWFAF142528/E964RFED/3193
 http://www.olacast.live/cdn/premium74/chunks.m3u8|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/rQaB6qO.png",[$]DAZN 1HD
 http://www.olacast.live/cdn/premium445/chunks.m3u8|Referer=https://player.licenses4.me/
