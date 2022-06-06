@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="WorldSports",tes
-https://netwrk.ru.com/cdn/premium160/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium140&test=true
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="WorldSports" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://tv.kpsvpn.com/sport1.mpd
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://uload.ru.com/cdn/premium31/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://uload.ru.com/cdn/premium32/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://uload.ru.com/cdn/premium34/chunks.m3u8
+
 #EXTINF:-1 group-title="WorldSports",dubai 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="WorldSports",dubai 2
