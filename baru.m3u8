@@ -1,16 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://uload.ru.com/cdn/premium31/chunks.m3u8
-
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://uload.ru.com/cdn/premium32/chunks.m3u8
-
-#EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://uload.ru.com/cdn/premium34/chunks.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="811" group-title="WorldSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+#https://uload.ru.com/cdn/premium123/chunks.m3u8
 #EXTINF:-1 group-title="WorldSports",dubai 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="WorldSports",dubai 2
