@@ -1,19 +1,31 @@
 #EXTM3U
-#EXTINF:-1  group-title="WorldSports",Premier Football 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  group-title="WorldSports",Premier Football 
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://www.youdooball.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports", Premier Football 2
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|referer=https://www.youdooball.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports", Premier Football 3
 https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://www.youdooball.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports", Premier Football 4
 https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://www.youdooball.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports", Premier Football 5
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://www.youdooball.com/
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports",Beins 1
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|referer=https://www.youdooball.com/
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports",Beins 3
 https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|referer=https://www.youdooball.com/
 
