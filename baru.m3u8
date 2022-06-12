@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="WorldSports", Premier Football 
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:-1 group-title="WorldSports", Premier Football 2
+http://pfsv.io:80/7262022437/6324/525
+#EXTINF:-1 group-title="WorldSports", Premier Football 3
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:-1 group-title="WorldSports", Premier Football 4
+http://189.91.128.146:4444/udp/227.10.20.105:1234 
+#EXTINF:-1 group-title="WorldSports", Premier Football 5
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:-1 group-title="WorldSports", Premier Football 6
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:-1 group-title="WorldSports", Premier Football 7
+http://189.91.128.146:4444/udp/227.10.20.123:1234
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  group-title="WorldSports",Premier Football 1
