@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 group-title="WorldSports",ASSP
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
+#EXTINF:-1 group-title="WorldSports",ASSP 2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
+#EXTINF:-1 group-title="WorldSports",ASSP 3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
+#EXTINF:-1 group-title="WorldSports",ASSP 4
+http://iptv12k.com:35461/8032022060101/452381/7984
+#EXTINF:-1 group-title="WorldSports",ASSP 5
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="WorldSports", ASTRO SUPERSPORT 5 (A)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="WorldSports",BEIN SPORTS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="WorldSports",BEIN SPORTS 2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="WorldSports",BEIN SPORTS 3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+
 #EXTINF:-1 group-title="WorldSports", Bein 1
 http://gplus.live:8080/168573780756/N9UFR0P64W/58839
 #EXTINF:-1 group-title="WorldSports", Bein 2
