@@ -1,8 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U 
 
 #EXTINF:-1 group-title="WorldSports",ASSP 1
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
@@ -99,19 +95,7 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1  group-title="WorldSports",ten 3
 http://182.50.65.213:8888/udp/239.239.0.35:3001
-#EXTINF:-1  group-title="WorldSports",BeinS 1
-http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=115615&extension=ts&play_token=yJwSdiHYqj
-#EXTINF:-1  group-title="WorldSports",BeinS 2 
-http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="WorldSports",BeinS 3
-http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="WorldSports",Bsp 1
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="WorldSports",Bsp 2
-http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="WorldSports",Bsp 3
-http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  group-title="WorldSports",Premiere league
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
@@ -119,10 +103,7 @@ http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63682.m3u8
 #EXTINF:-1  group-title="WorldSports",Football Serie A
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63692.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png", Rcti sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -175,14 +156,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156
 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 
 http://ccdn.pw:80/WY1NB/Felialagoas10/72329.ts
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 1
 http://203.154.243.89:21201/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 2
 http://203.154.243.89:21202/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 3
 http://ccdn.pw:80/WY1NB/Felialagoas10/72325.ts
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 3
 http://203.154.243.89:21203/nakhon
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
 http://189.91.128.146:4444/udp/227.10.20.116:1234
+#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
 http://203.154.243.89:21204/nakhon
 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 1
