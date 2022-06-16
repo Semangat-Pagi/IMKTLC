@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 group-title="WorldSports",piala presiden
+https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden1
 #EXTINF:-1 group-title="WorldSports",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="WorldSports",ASSP 1
