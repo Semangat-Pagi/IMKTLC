@@ -14,20 +14,7 @@ http://iptv12k.com:35461/8032022060101/452381/7984
 #EXTINF:-1 group-title="WorldSports",ASSP 5
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 
-#EXTINF:-1 group-title="WorldSports", Bein 1
-http://gplus.live:8080/168573780756/N9UFR0P64W/58839
-#EXTINF:-1 group-title="WorldSports", Bein 2
-http://gplus.live:8080/168573780756/N9UFR0P64W/58840
-#EXTINF:-1 group-title="WorldSports", Bein 3
-http://gplus.live:8080/168573780756/N9UFR0P64W/58841
-#EXTINF:-1 group-title="WorldSports", Bein 4
-http://gplus.live:8080/168573780756/N9UFR0P64W/58835
-#EXTINF:-1 group-title="WorldSports", Bein 5
-http://gplus.live:8080/168573780756/N9UFR0P64W/58836
-#EXTINF:-1 group-title="WorldSports", Bein 6
-http://gplus.live:8080/168573780756/N9UFR0P64W/58837
-#EXTINF:-1 group-title="WorldSports", Bein 7
-http://gplus.live:8080/168573780756/N9UFR0P64W/58838
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  group-title="WorldSports",Premier Football 1
