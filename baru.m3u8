@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" WorldSports",Premier_Football_1 HD[ENG]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" WorldSports",Premier_Football_1 HD[Thai]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115759
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" WorldSports",Premier_Football_2.HD[ENG]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
 #EXTINF:-1 group-title="WorldSports",bs1
 http://txm.flysat.live:2089/152030359948492/152023174081415/216513
 #EXTINF:-1 group-title="WorldSports",bs2
