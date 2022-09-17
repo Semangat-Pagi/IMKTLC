@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 group-title="WorldSports",bs1
+http://txm.flysat.live:2089/152030359948492/152023174081415/216513
+#EXTINF:-1 group-title="WorldSports",bs2
+http://txm.flysat.live:2089/152030359948492/152023174081415/216510
+#EXTINF:-1 group-title="WorldSports",bs3
+http://txm.flysat.live:2089/152030359948492/152023174081415/216507
 #EXTINF:-1 group-title="WorldSports",espn vivo
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="WorldSports",As
