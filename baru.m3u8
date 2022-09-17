@@ -1,53 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="WorldSports",Astro SuperSport
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium123/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="WorldSports",Astro SuperSport 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="WorldSports",Astro SuperSport 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="WorldSports",Astro SuperSport 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20676583_ico.png?ts=1660430261" group-title="WorldSports",Astro SuperSport 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium43/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21919839_ico.png?ts=1660500811" group-title="WorldSports",SuperSport Football
-https://best2.globalweb.ru.com/cdn/premium56/mono.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21919489_ico.png?ts=1660500940" group-title="WorldSports",SuperSport Premier League
-https://best2.globalweb.ru.com/cdn/premium414/mono.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21919851_ico.png?ts=1660501003" group-title="WorldSports",SuperSport La Liga
-https://best.globalweb.ru.com/cdn/premium415/mono.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21919866_ico.png?ts=1660501199" group-title="WorldSports",SuperSport Action
-https://best2.globalweb.ru.com/cdn/premium420/mono.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-chno="2190" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729619_ico.png?ts=1659723741" group-title="WorldSports",beIN SPORTS XTRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="WorldSports",beIN Sports English 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium61/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="WorldSports",beIN Sports English 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/lb/premium90/index.m3u8
 
 #EXTINF:-1 group-title="WorldSports",As
-http://103.71.173.240/offline3.ts
+http://saw.duplex-ott.net:2052/live/ZIZOBOX/hPFWYFXWbl/94058.ts
+#EXTINF:-1 group-title="WorldSports",bein
+http://bnstvstreamex.tk:8080/live/kuszynski/345rt654/35.ts
 #EXTINF:-1 group-title="WorldSports",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="WorldSports",ASSP 1
