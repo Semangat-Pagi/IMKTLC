@@ -68,48 +68,29 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="WorldSports",fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="WorldSports",Eleven 
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 https://list.iptvcat.com/my_list/s/f498c88fb7c7399493d382e59cc3d41f.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 2
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 https://list.iptvcat.com/my_list/s/76aba2931f618e97049a678991f9c585.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 3
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2533/index.m3u8
 https://list.iptvcat.com/my_list/s/e82593bd720a7b4888cc8f045cea76bc.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 4
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2534/index.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 5
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-#EXTINF:-1 group-title="WorldSports",Eleven 6
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2535/index.m3u8
+#EXTINF:-1 group-title="WorldSports",Sporttv1
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
+#EXTINF:-1 group-title="WorldSports",Sporttv2
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2526/index.m3u8
+#EXTINF:-1 group-title="WorldSports",Sporttv3
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2527/index.m3u8
+#EXTINF:-1 group-title="WorldSports",Sporttv4
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2528/index.m3u8
+#EXTINF:-1 group-title="WorldSports",Sporttv5
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2529/index.m3u8
 
-#EXTINF:-1  group-title="WorldSports",vtv6
-https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?token=
-
-#EXTINF:-1  group-title="WorldSports",ten 1
-http://182.50.65.213:8888/udp/239.239.0.33:3001
-#EXTINF:-1  group-title="WorldSports",ten 2
-http://182.50.65.213:8888/udp/239.239.0.34:3001
-#EXTINF:-1  group-title="WorldSports",ten 3
-http://182.50.65.213:8888/udp/239.239.0.35:3001
-
-
-#EXTINF:-1  group-title="WorldSports",Premiere league
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
-#EXTINF:-1  group-title="WorldSports",Laliga
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63682.m3u8
-#EXTINF:-1  group-title="WorldSports",Football Serie A
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63692.m3u8
-
-
-
-
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="WorldSports",ESPN VIVO
-https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-http://45.179.140.242:8000/play/a0jo
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="WorldSports",ESPN 2
-https://edge1-hr.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 3
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="WorldSports",ESPN 4
-https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv turkey
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -131,23 +112,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Strongman Champions League
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 
-http://ccdn.pw:80/WY1NB/Felialagoas10/72329.ts
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 1
-http://139.99.27.33:9998/assp1_720/tracks-v1a1/mono.m3u8?token=d44b3b310f29afa3f5fccbe22891c92d2d9474ab-a650feb4b4907a282f807ebc131c9865-1660547786-1660536986
-http://203.154.243.89:21201/nakhon
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 2
-http://139.99.27.33:9998/assp2/tracks-v1a1/mono.m3u8?token=6c2a6b50dca354f03498cd5899812165d647f30d-365f69624d38d125f97b6e3ffe589112-1660547999-1660537199
-http://203.154.243.89:21202/nakhon
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 3
-http://ccdn.pw:80/WY1NB/Felialagoas10/72325.ts
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 3
-http://139.99.27.33:9998/assp3_720/tracks-v1a1/mono.m3u8?token=159344b87f454a36690cc9d5d029153935f056cd-86d64b22562faacffc38b9799eb7b8d0-1660548088-1660537288
-http://203.154.243.89:21203/nakhon
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
-http://189.91.128.146:4444/udp/227.10.20.116:1234
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASSP 4
-http://203.154.243.89:21204/nakhon
+
 
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",Feed ch 1
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
