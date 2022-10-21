@@ -1,26 +1,13 @@
 #EXTM3U 
-#EXTINF:-1 group-title="WorldSports",sky sport
-https://video-weaver.jkt02.hls.live-video.net/v1/playlist/CpEFDEuqJ4hxjpVbfoDSBQn3M9xfh3foWiZeKd8ModldjCwsXJN2V4Gj5vONaA5E53soSiHX2qT0AjcfW8FC-nsj_ZMN6JmTXNqW_CmITZcYfkaGHEzneJsLWINo3nh2c7E9EqYREDZ8OBZTmqQQkGQjnoqXTzWqt7bVztHp4vwp345hBrDsPRybgWSP3i86b1scU_1WClxzkTflWL9lXfIcMJrDAwCLhyYDemghsreajD64glkXegDK_GvOzNJrliwwXhoNNHiIVtdZwnHaYNWFhBh3LcySDAtpkFnlLKwL_xlbR70n0Gy60CgYDCbiFQF5XPVxBs7ZfW2hZGbQXPu6m4Q_oNVu5MRk5VGjMkNs25I52HvQ-GV6qpjyOYnmv6UeAlIPBiPM4U9VgEeCgEub-7JtmR4O7tTYSEzsRBNvrnh649r5iU9eDJiCt7yvrZzqwFZ8ST-NSQSkKshdujJ0ub9Znh4mC__et9Ya2R5-yfcVb79Yr1dqn_UAIDa0n6hLpXlu_VEwxKNbw6EFLcLrKX4rMzpD1u15bXCyQAaonWxekepHEAC2fiZBHEEIWoGzWQpbbhW9QGeAmF97Bgo6q40xhJT5kRF8E3nEQAhnsOgVKKW4XE_S_8zsaIMozEZ4iPRZnTf3Hwa7TIINRVSY_cIZyCN_6I0Pix7q2ZxZZLyZEYqmbJ8prSlBS0gr7B_EnC1jsaA7fnHlJGd0yj1KAFQSVf6JRzMLc_InChl5bt975P5Gu0MesQ4xIsVVJ5gw0rNMw0accoCo9cnD6MywLiVOWIq7zbt1w1qJsQZygFyxVqnmydg1Y-MTg79wJrEMLsp_OXi1cOWvcsP08FEI9sdLvyJYwNex6TyGd3HYs-S3GgzjdmsJbAM3xkAqrbkgASoJdXMtd2VzdC0yMNgE.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" WorldSports",Premier_Football_1 HD[ENG]
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" WorldSports",Premier_Football_1 HD[Thai]
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115759
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" WorldSports",Premier_Football_2.HD[ENG]
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
-#EXTINF:-1 group-title="WorldSports",bs1
-http://txm.flysat.live:2089/152030359948492/152023174081415/216513
-#EXTINF:-1 group-title="WorldSports",bs2
-http://txm.flysat.live:2089/152030359948492/152023174081415/216510
-#EXTINF:-1 group-title="WorldSports",bs3
-http://txm.flysat.live:2089/152030359948492/152023174081415/216507
 #EXTINF:-1 group-title="WorldSports",espn vivo
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="WorldSports",As
-http://saw.duplex-ott.net:2052/live/ZIZOBOX/hPFWYFXWbl/94058.ts
-#EXTINF:-1 group-title="WorldSports",bein
-http://bnstvstreamex.tk:8080/live/kuszynski/345rt654/35.ts
-#EXTINF:-1 group-title="WorldSports",Indosiar
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+9446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="WorldSports",ASSP 1
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 #EXTINF:-1 group-title="WorldSports",ASSP 2
@@ -80,12 +67,12 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 group-title="WorldSports",fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 group-title="WorldSports",Eleven 1
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 group-title="WorldSports",Eleven 
+https://list.iptvcat.com/my_list/s/f498c88fb7c7399493d382e59cc3d41f.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 2
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+https://list.iptvcat.com/my_list/s/76aba2931f618e97049a678991f9c585.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 3
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+https://list.iptvcat.com/my_list/s/e82593bd720a7b4888cc8f045cea76bc.m3u8
 #EXTINF:-1 group-title="WorldSports",Eleven 4
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 #EXTINF:-1 group-title="WorldSports",Eleven 5
