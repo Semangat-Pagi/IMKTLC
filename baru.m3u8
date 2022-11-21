@@ -7,17 +7,17 @@ http://212.200.197.0:8002/play/a012/index.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 group-title=”WorldSports”,TUDN
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8
-#EXTINF:-1 group-title=”WorldSports”,Sport TV 1
+#EXTINF:-1 group-title="WorldSports",Sport TV 1
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:-1 group-title=”WorldSports”,Sport TV
+#EXTINF:-1 group-title="WorldSports",Sport TV
 https://webudi.openhd.lol/lb/premium78/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:-1 group-title=”WorldSports”,TSN 1
 https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:-1 group-title=”WorldSports”,Bein Sports 1
+#EXTINF:-1 group-title="WorldSports",bein 1
 https://webudi.openhd.lol/ddy1/premium61/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:-1 group-title=”WorldSports”,Bein Sports 1
 https://webudi.openhd.lol/ddy1/premium62/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 group-title=”WorldSports”,FS1
+#EXTINF:-1 group-title="WorldSports",Fs1
 https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:-1 group-title=”WorldSports”,Bein Sports 1
 https://webudi.openhd.lol/ddy1/premium116/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
