@@ -29,7 +29,33 @@ https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 
-#EXTINF:-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8?|referer=https://aesport.tv/&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=prima900&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", FOX SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=premium39&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", TVR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", OFF CADANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://89.216.39.24/cloud/stream/7254fbe9964a45deacc8a26d44a651c9/45/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", OFF CADANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", OFF CADANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd
+
 #EXTINF:-1 group-title="WorldSports",Hrt
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 group-title="WorldSports",hrt
