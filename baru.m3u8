@@ -2,6 +2,11 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="sctv" tvg-logo="https://s.id/1d0vb" group-title="PIALA DUNIA 2022",SCTV
+http://tvn.x10.mx/1/master-1.m3u8?dl=
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="a/n" tvg-logo="https://s.id/1d0xT" group-title="PIALA DUNIA 2022",A/N
 https://achi03.github.io/Achi03-helloworld/fifa-world-cup-24_720p.m3u8
 
