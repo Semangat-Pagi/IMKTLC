@@ -1,4 +1,26 @@
 #EXTM3U 
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA 2022",VTV2 HD
+http://vn2.cvacetv.ga/vtv2
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA 2022",VTV3 HD
+http://vn2.cvacetv.ga/vtv3
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA 2022",VTV5 HD
+http://vn2.cvacetv.ga/vtv5
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA 2022",VTV Cần Thơ HD
+https://wallpapermeter.tk/worldcup/vtvcanthomytv
+
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="PIALA DUNIA 2022", BEIN SPORTS MAX 1 4K
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492787
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="PIALA DUNIA 2022", BEIN SPORTS MAX 1 HD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492788
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="PIALA DUNIA 2022", BEIN SPORTS MAX 1 SD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492789
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="PIALA DUNIA 2022", BEIN SPORTS MAX 2 4K
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492790
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="PIALA DUNIA 2022", BEIN SPORTS MAX 2 HD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492791
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="PIALA DUNIA 2022", BEIN SPORTS MAX 2 SD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492792
+=====
 #EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA 2022", LIVE 1
 https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470049
 #EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA 2022", LIVE 2
