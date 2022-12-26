@@ -127,6 +127,20 @@ http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://4d39-112-215-154-252.ap.ngrok.io/vvip/vidio.php?id=9431
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd
 
+#EXTINF:-1 group-title="WorldSports",true 1
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+#EXTINF:-1 group-title="WorldSports",true 2
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
+#EXTINF:-1 group-title="WorldSports",true 1
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122885.ts
+#EXTINF:-1 group-title="WorldSports",true 2
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122886.ts
+#EXTINF:-1 group-title="WorldSports",now hk 1
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223056.ts
+#EXTINF:-1 group-title="WorldSports",now hk 2
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223057.ts
+#EXTINF:-1 group-title="WorldSports",now hk 3
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223058.ts
 #EXTINF:-1 group-title="WorldSports",Sport TV 1
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:-1 group-title="WorldSports",Fs1
