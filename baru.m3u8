@@ -1,56 +1,15 @@
 
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://bit.ly/3DVGhvQ",DAZN 1 DE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/merG161142.png group-title="WorldSports ",ARENA SPORT 1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/sport-inter/arenasport1/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PxIR161143.png group-title="WorldSports ",ARENA SPORT 2
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/sport-inter/arenasport2/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cKyX161144.png group-title="WorldSports ",ARENA SPORT 3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/sport-inter/arenasport3/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Zd8G161145.png group-title="WorldSports ",ARENA SPORT 4
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/arenasport4/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mYX0161146.png group-title="WorldSports ",ARENA SPORT 5
+http://5.206.237.66:9000/play/a074
 
-======== DAZN 2 DE ========
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://bit.ly/3C4GE66",DAZN 2 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-======== DAZN 1 ITA ========
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://bit.ly/3DP0DqL",DAZN 1 ITA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-019/stream.mpd
-
-======== DAZN ESP ========
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://bit.ly/3DVGhvQ",DAZN 1 ESP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-======== DAZN 2 ESP ========
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://bit.ly/3C4GE66",DAZN 2 ESP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
-
-======== DAZN F1 ESP ========
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.neeo.es/wp-content/uploads/2021/03/dazn-f1.jpg",DAZN F1 ESP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-
-======== DAZN LALIGA ========
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://bit.ly/3SpOwV9",DAZN LALIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0P81ZTw/ziggo.png" group-title="WorldSports",Ziggo Voetbal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c&key=e06339c46258a695fc8a2e8bfb394b6a
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ChampionTv1
 http://103.167.167.5:8111/play/a01p/index.m3u8
