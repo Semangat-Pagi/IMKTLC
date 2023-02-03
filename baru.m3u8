@@ -1,15 +1,25 @@
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/merG161142.png group-title="WorldSports ",ARENA SPORT 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/sport-inter/arenasport1/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PxIR161143.png group-title="WorldSports ",ARENA SPORT 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/sport-inter/arenasport2/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cKyX161144.png group-title="WorldSports ",ARENA SPORT 3
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/sport-inter/arenasport3/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Zd8G161145.png group-title="WorldSports ",ARENA SPORT 4
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/arenasport4/chunks.m3u8|Referer=https://dooball2you.com//tvonline/
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mYX0161146.png group-title="WorldSports ",ARENA SPORT 5
-http://5.206.237.66:9000/play/a074
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="WorldSports",ASTRO SUPERSPORT
+http://w.nasvpn.xyz:8080/live/saya/saya/3198.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 12; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
+#https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer="https://streamservicehd.click/"
+#http://54.37.82.205:8081/liveorigin/my-asp1hd_480/playlist.m3u8
+#https://networkbest.ru.com/cdn/premium123/chunks.m3u8|Referer="https://player.licenses4.me"|User-Agent="Mozilla/5.0 (Linux; Android 12; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
 
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="WorldSports",ASTRO SUPERSPORT 2
+http://54.37.82.205:8081/liveorigin/my-asp2hd_480/playlist.m3u8
+https://networkbest.ru.com/cdn/premium124/chunks.m3u8|Referer="https://player.licenses4.me"|User-Agent="Mozilla/5.0 (Linux; Android 12; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
+
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="WorldSports",ASTRO SUPERSPORT 3
+#https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer="https://streamservicehd.click/"
+http://54.37.82.205:8081/liveorigin/my-asp3hd_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="WorldSports",ASTRO SUPERSPORT 4
+#https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer="https://streamservicehd.click/"
+http://54.37.82.205:8081/liveorigin/my-asp4_480/playlist.m3u8
+https://networkbest.ru.com/cdn/premium126/chunks.m3u8|Referer="https://player.licenses4.me"|User-Agent="Ariev"
+
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://i.postimg.cc/s25wGV7H/astrosp5.png" group-title="WorldSports",ASTRO SUPERSPORT 5
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=
 
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ChampionTv1
 http://103.167.167.5:8111/play/a01p/index.m3u8
