@@ -1,3 +1,58 @@
+
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="WorldSports", ELEVEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="WorldSports", ELEVEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="WorldSports", ELEVEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="WorldSports", ELEVEN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="WorldSports", ELEVEN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2535/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="WorldSports", ELEVEN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2536/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="WorldSports",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium404/index.m3u8|referer=https://streamservicehd.click/
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vlHIPhm.png" group-title="WorldSports",SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ff6jT2Q.png" group-title="WorldSports",SPORT TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/Wi7rhPs.png"  group-title="WorldSports",BT SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/MrHjmX4.png"  group-title="WorldSports",BT SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/Ss2Gf0o.png"  group-title="WorldSports",BT SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium33/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/zB1PPDI.png"  group-title="WorldSports",BT SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="WorldSports",beIN SPORTS PREMIUM 1
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94496&extension=ts&play_token=TQ6cftyhX8
 
