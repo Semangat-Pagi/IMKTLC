@@ -26,6 +26,21 @@ http://103.167.167.5:8111/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",ChampionTv 2
 http://103.167.167.5:8111/play/a01q/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv3key.html
+#EXTINF:-8 tvg-id="8" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/Pq55kHph/champions-tv-3.png" group-title="WorldSports",Champions TV 3
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv5key.html
+#EXTINF:-9 tvg-id="9" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/LsStHpfv/Champions-TV-5.png" group-title="WorldSports",Champions TV 5
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv6key.html
+#EXTINF:-10 tvg-id="10" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/HkHLBXTr/champions-tv-6.png" group-title="WorldSports",Champions TV 6
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
 #EXTINF:-1 tvg-id="Маtch Futbol 1" tvg-name="Маtch Futbol 1" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="WorldSports", Arena Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://newtest.webtv1.lol/lb/premium135/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -375,7 +390,7 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(dc9040ad-a4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="Indonesia1",RCTI ok
-https://anevia115.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&|User-Agent=android-R+
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -389,7 +404,7 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="Indonesia1",MNCTV 
-https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv&?|referer=https://www.rctiplus.com/
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
