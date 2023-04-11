@@ -1,12 +1,12 @@
 
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="WorldSports",ASTRO SUPERSPORT
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="WorldSports",ASTRO
 http://w.nasvpn.xyz:8080/live/saya/saya/3198.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 12; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
 #https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer="https://streamservicehd.click/"
 #http://54.37.82.205:8081/liveorigin/my-asp1hd_480/playlist.m3u8
 #https://networkbest.ru.com/cdn/premium123/chunks.m3u8|Referer="https://player.licenses4.me"|User-Agent="Mozilla/5.0 (Linux; Android 12; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
 
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="WorldSports",ASTRO SUPERSPORT 2
-http://54.37.82.205:8081/liveorigin/my-asp2hd_480/playlist.m3u8
+http://103.176.90.131:8080/live/play/VjIxQ1ZEQjVTREpyTDNVM2MwOWlkblpIV210R01tWnRkVFZRWlhkT1lrSlllSEJaYmpCYVpYVm1TVDA9/1111033
 https://networkbest.ru.com/cdn/premium124/chunks.m3u8|Referer="https://player.licenses4.me"|User-Agent="Mozilla/5.0 (Linux; Android 12; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
 
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Astro Supersport 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="WorldSports",ASTRO SUPERSPORT 3
