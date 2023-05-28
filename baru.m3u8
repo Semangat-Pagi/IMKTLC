@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="WorldSports" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 1
+https://webudit.salamus1.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="WorldSports" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 2
+https://webudit.salamus1.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="WorldSports" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 3
+https://webudit.salamus1.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 group-title="WorldSports",Spotv
 http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
 #EXTINF:-1 group-title="WorldSports",true1
