@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://cdn.ksa.my.id/spotv.png" group-title="WorldSports",SPOTV2
-https://webudit.vipboxtv.stream:443/lb/premium124/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="WorldSports" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sportss
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
