@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="WorldSports"​,PREMIER LEAGUE 1
+http://starshare.live:8080/live/Agness/Agness/98867.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="WorldSports"​,PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
 #EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://cdn.ksa.my.id/spotv.png" group-title="WorldSports",SPOTV2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="WorldSports" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sportss
